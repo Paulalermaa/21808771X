@@ -1,0 +1,14 @@
+12/05/23 16:14
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	     1093	   11201	                    64769	                    74248	        1	
+Pendientes:       	     1093	   11201	                    64769	                    74248	        1	
+Únicos:           	      944	   10579	                    59853	                    69017	        1	
+Pendientes únicos:	      944	   10579	                    59853	                    69017	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo                                                          	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+Van Gogh's Art, Gogen's Influence and Mental Illness Free Essay Example.htm	              1093	                1093	             944	                        944	         11201	              11201	          10579	                     10579	                          64769	                               64769	                           59853	                                      59853	                          74248	                               74248	                           69017	                                      69017	
