@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First of all, in the times of economic instability the families start to push their children into careers they deem the best, the safest, and the most profitable.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T182647Z" creationid="paula" creationdate="20230519T182647Z">
+        <seg>En primer lugar, en los tiempos de inestabilidad económica, las familias empiezan a empujar a sus hijos a realizar carreras que ellos consideran las mejores, las más seguras y las más provechosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Franco-Prussian War (1870-1871)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T155331Z" creationid="maria" creationdate="20230511T155331Z">
         <seg>Van Gogh “Lo ví como erróneamente condenado, no enfermo” (Charles, 2014, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh’s sympathy towards the lower class people (peasants, miners, prostitutes) resulted in conflicts with his family but made a positive impact on his art.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T183149Z" creationid="paula" creationdate="20230519T183149Z">
+        <seg>La simpatía de Van Gogh hacia la gente de clase baja (campesinos, mineros, prostitutas) dio como resultado conflictos con su familia, pero tuvo un gran impacto en su arte.</seg>
       </tuv>
     </tu>
     <tu>
