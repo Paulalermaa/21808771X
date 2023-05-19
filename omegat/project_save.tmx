@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He was a very famous draftsman who liked to work on cardboard.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T184136Z" creationid="paula" creationdate="20230519T184136Z">
+        <seg>Era un dibujante muy famoso al que le gustaba trabajar sobre cartón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He worked with thick layers of pastel and simple shapes (Van Gogh &amp; Powell, 2003).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T183838Z" creationid="paula" creationdate="20230519T183838Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T162351Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
         <seg>Más tarde, se hicieron íntimos el uno del otro porque podían relacionar su deseo compartido de dar una nueva forma a sus imaginaciones como artistas que luchaban por ganarse un nombre en la más confusa forma de arte impresionista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lautrec was born in 1864 at Albi.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T184107Z" creationid="paula" creationdate="20230519T184107Z">
+        <seg>Lautrec nació en 1864 en Albi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +770,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T154221Z" creationid="maria" creationdate="20230511T154221Z">
         <seg>Vincent van Gogh tuvo una infancia complicada, y las dificultades de su vida posterior empeoraron su estado mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When Van Gogh moved in with his brother Theo in Paris in March 1886 he met Henri de Toulouse Lautrec in Cormon’s studio where Lautrec drew Van Gogh’s painting in pastel.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T184047Z" creationid="paula" creationdate="20230519T184047Z">
+        <seg>Cuando Van Gogh se traslada a vivir con su hermano Theo a París en marzo de 1886, conoce a Henri de Toulouse Lautrec en el estudio de Cormon, donde Lautrec dibuja al pastel el cuadro de Van Gogh.</seg>
       </tuv>
     </tu>
     <tu>
