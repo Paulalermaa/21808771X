@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During his time in Paris in 1886, Van Gogh happened to meet many outstanding artists such as Cormon, Cezanne, Pissarro, Monet, and Gauguin, from whom he learned various art techniques making slight changes in his style and adapting to the world of the Impressionists (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T183356Z" creationid="paula" creationdate="20230519T183356Z">
+        <seg>Durante su estancia en París en 1886, Van Gogh conoció a muchos artistas destacados como Cormon, Cezanne, Pissarro, Monet y Gauguin, de los que aprendió diversas técnicas artísticas realizando ligeros cambios en su estilo y adaptándose al mundo de los impresionistas (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Economic instability led to the growth of the gap between the rich and the poor in Europe.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230507T194722Z" creationid="paula" creationdate="20230507T192628Z">
@@ -354,6 +362,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
         <seg>Ningún país extranjero acudió en ayuda de los once estados de la confederación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paul Cezanne met Van Gogh in 1873.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T183532Z" creationid="paula" creationdate="20230519T183532Z">
+        <seg>Paul Cezanne conoció a Van Gogh en 1873.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paul Cezanne’s work laid the foundation for Post-Impressionist painting in France.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T183503Z" creationid="paula" creationdate="20230519T183503Z">
+        <seg>La obra de Paul Cezanne sentó las bases de la pintura postimpresionista en Francia.</seg>
       </tuv>
     </tu>
     <tu>
