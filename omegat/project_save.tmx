@@ -6,10 +6,370 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>A historical study began to explore Van Gogh’s depression and his artistic production throughout his close relationship with Gauguin, another artist of his time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>Un estudio histórico comenzó a explorar la depresión de Van Gogh y su producción artística a lo largo de su estrecha relación con Gauguin, otro artista de su época.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After Gauguin finally left, Van Gogh cut off a part of his ear.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230511T155121Z" creationid="maria" creationdate="20230511T155121Z">
+        <seg>Después de que Gauguin finalmente abadonara, Van Gogh se amputó parte de la oreja .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After many cooperative efforts by both artists, problems soon arose due to basic differences in their personalities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>Tras muchos esfuerzos de cooperación por parte de ambos artistas, pronto surgieron problemas debido a diferencias básicas en sus personalidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although Vincent Van Gogh died young, he was a prolific painter, and his life of probable mental illness and unsuccessful relationships is of interest to this writer, who is studying to become an art therapist.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T211014Z" creationid="dinag" creationdate="20230511T211014Z">
+        <seg>A pesar de que Vincent Van Gogh muriera jóven, él fue un pintor prodigioso, y su vida de enfermedades mentales y relaciones fallidas es el interés para este autor, el cual estudia para convertirse en un arteterapeuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although the war took place in the United States in North America, the events in America influenced life in Europe since the union decided to blockade the Confederate seaports which supplied cotton and other material into Europe.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
+        <seg>Aunque la guerra tuvo lugar en Estados Unidos, en Norteamérica, los acontecimientos en América influyeron en la vida en Europa, ya que la unión decidió bloquear los puertos marítimos confederados que suministraban algodón y otros materiales a Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>American Civil War</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
+        <seg>Guerra Civil Americana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a saying goes, “morning shows the day”, which means if the beginning is good, then the result will also be good, so it was with Vincent Van Gogh ‘s talent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T202337Z" creationid="dinag" creationdate="20230511T202337Z">
+        <seg>Como dice el dicho &lt;&lt; lo que bien empieza, bien acaba&gt;&gt; que significa si el comienzo es bueno, entonces el resultado también lo será, y así fue con el talento de Vincent Van Gogh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the war progressed and more territory fell into the power of Union, the blockade became an international issue.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
+        <seg>A medida que la guerra avanzaba y más territorio caía en poder de la Unión, el bloqueo se convirtió en un problema internacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At Saint-Remy, Van Gogh was extremely productive; it can be concluded that working on his paintings was bringing him relief.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230511T155702Z" creationid="maria" creationdate="20230511T155702Z">
+        <seg>En Saint-Rémy, Van Gogh fue extremadamente productivo; se puede concluir que pintar sus cuadros lo aliviaba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Economic instability led to the growth of the gap between the rich and the poor in Europe.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T194722Z" creationid="paula" creationdate="20230507T192628Z">
+        <seg>La inestabilidad económica condujo al crecimiento de la brecha entre riqueza y pobreza en Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even though the themes of his work were sometimes somber, Vincent Van Gogh’s paintings reflected hope and happiness.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T200758Z" creationid="dinag" creationdate="20230511T200758Z">
+        <seg>Aunque los temas de su obra fueran a veces sombrías, las pinturas de Vincent Van Gogh reflejaban esperanza y felicidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure 1 is a photograph of Vincent Van Gogh as a child Vincent Van Gogh was born in Groot-Zundert, the Netherlands, on March 30, 1853.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T204117Z" creationid="dinag" creationdate="20230511T201452Z">
+        <seg>La figura 1 es una fotografía de Vincent Van Gogh cuando era pequeño, Vincent Van Gogh nació en Groot-Zundert, Países Bajos, el 30 de marzo de 1853.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 5.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T180502Z" creationid="paula" creationdate="20230519T180502Z">
         <seg>Figura 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Franco-Prussian War (1870-1871)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
+        <seg>Guerra franco-prusiana (1870-1871)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>French Revolution</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T195937Z" creationid="paula" creationdate="20230507T195937Z">
+        <seg>Revolución Francesa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gauguin and Van Gogh were trying to create an artist union in Arles, but their views differed so much that it leads to a conflict.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230511T154845Z" creationid="maria" creationdate="20230511T154845Z">
+        <seg>Gauguin y Van Gogh trataron de crear una unión artística en Arlés, pero sus puntos de vista diferían tanto que causó un conflicto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Growing up in the conditions of ongoing political conflicts Van Gogh was under constant pressure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T192018Z" creationid="paula" creationdate="20230507T192018Z">
+        <seg>Debido a que creció bajo las condiciones de los conflictos políticos en desarrollo, Van Gogh se encontraba bajo una presión constante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He did not attain notoriety until after his death and thus remained poor throughout his life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T201932Z" creationid="dinag" creationdate="20230511T201843Z">
+        <seg>No alcanzó fama hasta después de su muerte y, por lo tanto, permaneció pobre durante toda su vida..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He drew early as a child and ended up as a famous artist, after struggles with mental illness, which may have caused his death (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T203227Z" creationid="dinag" creationdate="20230511T203013Z">
+        <seg>Él comenzó a dibujar pronto cuando era muy pequeño, y acabó siendo un artista famoso, después de combatir las enfermedades mentales, que probablemente causaron su muerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>His artwork undoubtedly served as some therapy to him.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>Sin duda, su obra de arte le sirvió de terapia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>His impressionist forms were influenced by his close collaborations with artists such as Mantic, Gauguin, Lautrec, and Cezanne.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>Sus formas impresionistas se vieron influidas por sus estrechas colaboraciones con artistas como Mantic, Gauguin, Lautrec y Cezanne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Historical Background</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T195902Z" creationid="paula" creationdate="20230507T195902Z">
+        <seg>Trasfondo Histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, it is believed that he suffered from several mental illnesses (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T204158Z" creationid="dinag" creationdate="20230511T201822Z">
+        <seg>Sin embargo, se cree que él sufría de enfermedades mentales graves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hypergraphia</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230511T160956Z" creationid="HP" creationdate="20230511T160956Z">
+        <seg>Hipergrafía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 1861, eleven states in the United States wanted to secede from the union of states and form their own confederate American country.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
+        <seg>En 1861, once estados de Estados Unidos querían separarse de la unión de estados y formar su propio país confederado americano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In describing the mutual friendship and artistic relationship between Vincent and Gauguin, it will be noted that Gauguin greatly admired Gogh’s paintings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>Al describir la amistad mutua y la relación artística entre Vincent y Gauguin, se observará que Gauguin admiraba mucho los cuadros de Gogh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Influence of the Political Scenario on Van Gogh</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T191830Z" creationid="paula" creationdate="20230507T191830Z">
+        <seg>La influencia del escenario político en Van Gogh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T204111Z" creationid="dinag" creationdate="20230511T201120Z">
+        <seg>Introducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can be concluded that the events of Van Gogh’s childhood predisposed him to his disease, and the later failures worsened his condition.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>Se puede concluir que los acontecimientos de la infancia de Van Gogh le predispusieron a su enfermedad, y los fracasos posteriores empeoraron su estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is believed to be important to describe the background of what was happening in the world, and in the artistic community, especially in France, during the period when Van Gogh was alive and living and working in France and other parts of Europe.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T195914Z" creationid="paula" creationdate="20230507T195914Z">
+        <seg>Se cree que es importante describir el trasfondo de lo que estaba sucediendo e el mundo, y en la comunidad artística, especialmente en Francia, durante el periodo en el que Van Gogh estaba vivo y vivía y trabajaba en Francia y otras partes de Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible that the stress of this relationship caused an increase in Vincent’s mental disorders.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>Es posible que el estrés de esta relación provocara un aumento de los trastornos mentales de Vincent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is still unknown what role the illness played in his success as a painter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>Aún se desconoce qué papel desempeñó la enfermedad en su éxito como pintor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was the time between the 1860s and 1880s that he was most productive, and finally decided to become an artist after he had seen and experienced much in life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>Fue la época entre 1860 y 1880 cuando fue más productivo, y finalmente decidió convertirse en artista después de haber visto y experimentado mucho en la vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Later, there was some competition and friction between them.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T211419Z" creationid="dinag" creationdate="20230511T211419Z">
+        <seg>Más tarde, hubo cierta competencia y fricción entre ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Later, they became close to each other for they could relate their shared desire to give a new form to their imaginations as artists struggling to earn a name in the highly confounding impressionist art form.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T162351Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>Más tarde, se hicieron íntimos el uno del otro porque podían relacionar su deseo compartido de dar una nueva forma a sus imaginaciones como artistas que luchaban por ganarse un nombre en la más confusa forma de arte impresionista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Life of Vincent Van Gogh (1853-1889)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T211739Z" creationid="dinag" creationdate="20230511T211739Z">
+        <seg>La vida de Vincent Van Gogh (1853-1889)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Likewise, it is unknown what the illness was: the most popular versions are depression and bipolar disorder.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230511T154529Z" creationid="maria" creationdate="20230511T154529Z">
+        <seg>Asimismo, se desconoce qué era la enfermedad: las versiones más populares eran depresión y transtorno bipolar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Literature Review</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T211720Z" creationid="dinag" creationdate="20230511T211720Z">
+        <seg>Revisión bibliográfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mental Illness</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230511T154540Z" creationid="maria" creationdate="20230511T154540Z">
+        <seg>Enfermedad Mental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Methodology</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230513T144453Z" creationid="HP" creationdate="20230513T144308Z">
+        <seg>Metodología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No foreign countries came to help the eleven states of the confederacy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
+        <seg>Ningún país extranjero acudió en ayuda de los once estados de la confederación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prussia was grasping power in the southern provinces of Germany and France wanted compensation in Belgium to maintain the balance of power in Europe.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
+        <seg>Prusia se hacía con el poder en las provincias del sur de Alemania y Francia quería una compensación en Bélgica para mantener el equilibrio de poder en Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Soon after the American Civil War, France lost an important war to Prussia against Germany.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
+        <seg>Poco después de la Guerra Civil estadounidense, Francia perdió una importante guerra contra Alemania a manos de Prusia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Soon before the birth of Van Gogh, civil war broke out in Europe, specifically the French Revolution which had an impact on everyone’s lives.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T195948Z" creationid="paula" creationdate="20230507T195948Z">
+        <seg>Poco antes del nacimiento de Van Gogh, estalló la Guerra Civil en Europa, específicamente la Revolución Francesa, la cual tuvo impacto en las vidas de todo el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sunstroke</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230511T161012Z" creationid="HP" creationdate="20230511T161012Z">
+        <seg>Sol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Civil War began and continued for four years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
+        <seg>La Guerra Civil comenzó y continuó durante cuatro años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,6 +382,118 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The United States government did not want them to secede.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
+        <seg>El gobierno de Estados Unidos no quería que se separaran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Yellow House</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230512T005501Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>La Casa Amarilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The art of Impressionism that affected Van Gogh’s style so much derived from the dire historical environments as an opposition to the depressive reality with the help of non-sentimental themes, bright light, and cheerful colors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T195042Z" creationid="paula" creationdate="20230507T193305Z">
+        <seg>El arte del Impresionismo que tanto afectó al estilo de Van Gogh, deriva de los nefastos entornos históricos como oposición a la despresiva realidad con la ayuda de  temas no sentimentales, luz brillante y colores alegres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cause of his death was a self-inflicted gunshot wound.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T203502Z" creationid="dinag" creationdate="20230511T202144Z">
+        <seg>La causa de su muerte fue una herida de bala autoinfligida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The civil war was an uprising that had grown in the minds of the men of Europe so they could overcome the monarchy and rule their own lives.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T200006Z" creationid="paula" creationdate="20230507T200006Z">
+        <seg>La Guerra Civil fue un levantamiento que creció en las mentes de los hombres europeos de manera que pudieran vencer a la monarquía y dirigir sus propias vidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first flare-up of his illness occurred with Paul Gauguin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230511T154627Z" creationid="maria" creationdate="20230511T154627Z">
+        <seg>El primer brote de su enfermedad ocurrió con Paul Gauguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main cause of this war was the unification of Germany.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
+        <seg>La causa principal de esta guerra fue la unificación de Alemania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next day he went to a mental hospital at Saint-Remy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230511T155227Z" creationid="maria" creationdate="20230511T155227Z">
+        <seg>Al día siguiente fue a un hospital psiquiátrico en Saint-Rémy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The problem of the connection between Van Gogh’s artistic talent and his mental illness is still unsolved.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230511T154336Z" creationid="maria" creationdate="20230511T154336Z">
+        <seg>El problema de la conexión entre el talento artístico de Van Gogh y su enfermedad mental está aún sin resolver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The question of the influence on the work of his relationship with Gauguin and possible mental illness will be investigated and discussed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T204252Z" creationid="dinag" creationdate="20230511T200558Z">
+        <seg>La cuestión de la influencia en su obra con su amistad con Gauguin y la posible enfermedad mental serán investigados y profundizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The research method adopted in this thesis follows a historical framework.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T201103Z" creationid="dinag" creationdate="20230511T201103Z">
+        <seg>El método de búsqueda adoptada en esta tesis sigue un marco histórico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rule of Louis-Phillippe was put to an end and thus was born the French Second Republic which was led by Louis Napoleon (Tocqueville, 1986).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T182055Z" creationid="paula" creationdate="20230519T182055Z">
+        <seg>El gobierno de Louis-Phillippe llegó a su fin y así nació la Segunda República Francesa, dirigida por Louis Napoleón (Tocqueville, 1986).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The three most important world history events were the French Revolution, the American Civil War, and the Franco-Prussian war in Europe.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T195924Z" creationid="paula" creationdate="20230507T195924Z">
+        <seg>Los tres eventos más importantes de la historia mundial fueron la Revolución Francesa, la Guerra Civil Americana y la Guerra franco-prusiana en Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Their collaboration ended dramatically around Christmas Eve, 1888, followed by a series of violent incidents (Greenberg &amp; Jordan, 2001)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T211709Z" creationid="dinag" creationdate="20230511T211709Z">
+        <seg>Su colaboración terminó de forma dramática alrededor de la Nochebuena de 1888, seguida de una serie de incidentes violentos (Greenberg &amp; Jordan, 2001)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These civil uprisings broke out through Europe and we’re not always successful, but in France, it led to a new and free country.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T181246Z" creationid="paula" creationdate="20230519T181246Z">
@@ -30,10 +502,202 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They differed in views.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T211445Z" creationid="dinag" creationdate="20230511T211445Z">
+        <seg>Ellos diferían en puntos de vista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They learned a lot from each other even though their collaboration was not long.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T211345Z" creationid="dinag" creationdate="20230511T211345Z">
+        <seg>Aprendieron mucho el uno del otro a pesar de que su colaboración no fue larga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This added to his troubles.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>Esto agravó sus problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This researcher has also been influenced by Van Gogh and wanted to learn more about him.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>Este investigador también ha sido influenciado por Van Gogh y quería aprender más sobre él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This was mainly due to dissatisfaction with the political scenario, the desire for freedom of the press, and the need for the people to look after and participate in the law-making and government policies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T200446Z" creationid="paula" creationdate="20230507T200446Z">
+        <seg>Esto fue principalmente previsto para el descontento con el escenario político, el deseo de libertad de la presión, y la necesidad de la gente de cuidar y participar al hacer las leyes y las normas del gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Throughout this thesis, the researcher will review Vincent Van Gogh’s talent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>A lo largo de esta tesis, el investigador repasará el talento de Vincent Van Gogh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Timeline of Vincent Van Gogh’s life.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T180847Z" creationid="paula" creationdate="20230519T180847Z">
         <seg>Línea del tiempo de la vida de Vincent Van Gogh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To conclude, Vincent van Gogh’s paintings are full of vivid positive and dark negative emotions, which often reflect the painter’s state of mind.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230511T153602Z" creationid="maria" creationdate="20230511T153602Z">
+        <seg>Para concluir, los cuadros de Vicent van Gogh están llenos de emociones alegres positivas, y oscuras negativas, que a menudo refleja los estados de ánimo del pintor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh and Gauguin are known as two of the most influential artists of their era.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T211256Z" creationid="dinag" creationdate="20230511T211256Z">
+        <seg>Van Gogh y Gauguin ambos son conocidos como los artistas más influyentes de su era.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh had a difficult childhood this was attributed to his lack of proper socialization in early childhood.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>Van Gogh tuvo una infancia difícil, atribuida a su falta de socialización en la primera infancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh had no success in the choice of careers that had been laid out for him by his parents.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>Van Gogh no tuvo éxito en la elección de carreras que le habían planteado sus padres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh himself has mentioned that Gauguin liked sunflowers, so he was painting them while missing his friend, suffering from loneliness and isolation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>El propio Van Gogh ha mencionado que a Gauguin le gustaban los girasoles, así que los pintaba mientras echaba de menos a su amigo, aquejado de soledad y aislamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh started to be disconnected from his family at a very young age due to his failure to perform successfully in the career fields they chose for him such as teaching, religion, and sales (Butterfield, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T194459Z" creationid="paula" creationdate="20230507T192232Z">
+        <seg>Van Gogh dejó de tener relación con su familia a una edad muy temprana debido a su fracaso de realizar exitosamente una carrera en el campo que ellos habían escogido para él, como la enseñanza, la religión y las ventas (Butterfield, 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh tried his luck in selling art, preaching, and book-keeping.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>Van Gogh probó suerte vendiendo arte, predicando y llevando la contabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh “saw himself as wrongly convicted, not ill” (Charles, 2014, p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230511T155331Z" creationid="maria" creationdate="20230511T155331Z">
+        <seg>Van Gogh “Lo ví como erróneamente condenado, no enfermo” (Charles, 2014, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vincent Van Gogh had a miserable childhood and was described as unstable with emotional problems.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T161910Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>Vincent Van Gogh tuvo una infancia desafortunada y fue descrito como inestable y con problemas emocionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vincent Van Gogh made a significant influence on the art of the 20th century.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>Vincent Van Gogh ejerció una influencia significativa en el arte del siglo XX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vincent Van Gogh was a prolific artist in the 19th century.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>Vincent Van Gogh fue un prolífico artista del siglo XIX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vincent Van Gogh’s two strongest relationships seem to have been with his brother, Theo, and Paul Gauguin, a contemporary artist.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T211158Z" creationid="dinag" creationdate="20230511T211158Z">
+        <seg>Las dos relaciones más cercanas de Vincent Van Gogh parece que fueron con su hermano, Theo, y con Paul Gauguin, un artista contemporáneo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vincent seems to have been affected mentally by the fact that his father was a pastor, making him a mostly unstable child with emotional problems.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T212000Z" creationid="dinag" creationdate="20230511T212000Z">
+        <seg>Vincent parece haber sido afectado psicológicamente por el hecho de que su padre era un pastor, convirtiéndole en un nino inestable con problemas emocionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vincent van Gogh has had a complicated childhood, and the hardships of his later life worsened his mental state.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230511T154221Z" creationid="maria" creationdate="20230511T154221Z">
+        <seg>Vincent van Gogh tuvo una infancia complicada, y las dificultades de su vida posterior empeoraron su estado mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where Gauguin supported abstract art, Vincent Van Gogh supported the reality of the world.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230511T211600Z" creationid="dinag" creationdate="20230511T211600Z">
+        <seg>Mientras Gauguin apoyaba el arte abstracto, Vincent Van Gogh apoyaba el realismo del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working as a missionary, Van Gogh often engaged in communication with the poorest population and happened to adopt their worldview starting to believe that religion was irrelevant to reality (Butterfield, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230507T192914Z" creationid="paula" creationdate="20230507T192914Z">
+        <seg>Trabajando como misionero, Van Gogh a menudo se involucró en la comunicación con la población más pobre y debido a ello adoptó su visión del resto del mundo, empezando por creer que la religión era irrelevante a la realidad (Butterfield, 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working on a painting provided him some relief, the one that therapy could provide.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>Trabajar en un cuadro le proporcionaba cierto alivio, el que podía proporcionar la terapia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“Sunflowers” was created in one of the hardest periods of Van Gogh’s life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230512T005431Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
+        <seg>"Los Girasoles" fue creado en uno de los periodos más duros de la vida de Van Gogh.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
