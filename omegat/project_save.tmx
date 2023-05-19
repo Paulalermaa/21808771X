@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As the Prussian war approached, Manet joined the army and moved his family away from Paris.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T191439Z" creationid="paula" creationdate="20230519T191439Z">
+        <seg>Al acercarse la guerra prusiana, Manet se alistó en el ejército y trasladó a su familia lejos de París.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As the war progressed and more territory fell into the power of Union, the blockade became an international issue.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
