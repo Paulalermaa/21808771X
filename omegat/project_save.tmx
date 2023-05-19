@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Figure 5.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T180502Z" creationid="paula" creationdate="20230519T180502Z">
+        <seg>Figura 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Timeline of Vincent Van Gogh’s life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T180847Z" creationid="paula" creationdate="20230519T180847Z">
+        <seg>Línea del tiempo de la vida de Vincent Van Gogh.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
