@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cezanne’s work initially was disliked by the public and a lot of fellow painters because he was influenced by Pissarro’s Impressionist style.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T183638Z" creationid="paula" creationdate="20230519T183638Z">
+        <seg>Al principio, la obra de Cézanne no gustó al público ni a muchos de sus colegas pintores porque estaba influenciada por el estilo impresionista de Pissarro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During his time in Paris in 1886, Van Gogh happened to meet many outstanding artists such as Cormon, Cezanne, Pissarro, Monet, and Gauguin, from whom he learned various art techniques making slight changes in his style and adapting to the world of the Impressionists (Naifeh &amp; Smith, 2011).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T183356Z" creationid="paula" creationdate="20230519T183356Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T203227Z" creationid="dinag" creationdate="20230511T203013Z">
         <seg>Él comenzó a dibujar pronto cuando era muy pequeño, y acabó siendo un artista famoso, después de combatir las enfermedades mentales, que probablemente causaron su muerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He worked with thick layers of pastel and simple shapes (Van Gogh &amp; Powell, 2003).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T183838Z" creationid="paula" creationdate="20230519T183838Z">
+        <seg>Trabajaba con gruesas capas de pastel y formas sencillas (Van Gogh &amp; Powell, 2003).</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nevertheless, Paul Cezanne is considered one of the greatest revolutionary artists of the late 19&lt;s0&gt;th&lt;/s0&gt; and early 20&lt;s1&gt;th&lt;/s1&gt; centuries.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T183800Z" creationid="paula" creationdate="20230519T183800Z">
+        <seg>Sin embargo, Paul Cézanne está considerado uno de los mayores artistas revolucionarios de finales del siglo XIX y principios del XX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No foreign countries came to help the eleven states of the confederacy.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
@@ -366,18 +390,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paul Cezanne (1839-1906)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T183656Z" creationid="paula" creationdate="20230519T183656Z">
+        <seg>Paul Cézanne (1839-1906)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paul Cezanne met Van Gogh in 1873.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="paula" changedate="20230519T183532Z" creationid="paula" creationdate="20230519T183532Z">
-        <seg>Paul Cezanne conoció a Van Gogh en 1873.</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T183646Z" creationid="paula" creationdate="20230519T183532Z">
+        <seg>Paul Cézanne conoció a Van Gogh en 1873.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Paul Cezanne’s work laid the foundation for Post-Impressionist painting in France.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="paula" changedate="20230519T183503Z" creationid="paula" creationdate="20230519T183503Z">
-        <seg>La obra de Paul Cezanne sentó las bases de la pintura postimpresionista en Francia.</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T183650Z" creationid="paula" creationdate="20230519T183503Z">
+        <seg>La obra de Paul Cézanne sentó las bases de la pintura postimpresionista en Francia.</seg>
       </tuv>
     </tu>
     <tu>
