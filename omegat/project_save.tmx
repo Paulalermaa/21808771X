@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cezanne and Van Gogh worked together for two years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T184734Z" creationid="paula" creationdate="20230519T184734Z">
+        <seg>Cézanne y Van Gogh trabajaron juntos durante dos años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cezanne’s work initially was disliked by the public and a lot of fellow painters because he was influenced by Pissarro’s Impressionist style.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T183638Z" creationid="paula" creationdate="20230519T183638Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T162351Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
         <seg>Más tarde, se hicieron íntimos el uno del otro porque podían relacionar su deseo compartido de dar una nueva forma a sus imaginaciones como artistas que luchaban por ganarse un nombre en la más confusa forma de arte impresionista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lautrec and Van Gogh later met again at Julien Pere Tanguy’s paint store to view Paul Cezanne’s painting.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230519T184704Z" creationid="paula" creationdate="20230519T184704Z">
+        <seg>Más tarde, Lautrec y Van Gogh vuelven a encontrarse en la tienda de pinturas de Julien Pere Tanguy para ver el cuadro de Paul Cézanne.</seg>
       </tuv>
     </tu>
     <tu>
