@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Henri Matisse was born in a middle-class family and wanted to study law.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T131259Z" creationid="paula" creationdate="20230521T131259Z">
+        <seg>Henri Matisse nació en una familia de clase media y quería estudiar Derecho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>His artwork undoubtedly served as some therapy to him.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T211720Z" creationid="dinag" creationdate="20230511T211720Z">
         <seg>Revisión bibliográfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manet died early in 1883.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T130932Z" creationid="paula" creationdate="20230521T130932Z">
+        <seg>Manet murió a principios de 1883.</seg>
       </tuv>
     </tu>
     <tu>
