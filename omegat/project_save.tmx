@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Various incidents demonstrate Vincent Van Gogh’s depression:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T153706Z" creationid="paula" creationdate="20230521T153706Z">
+        <seg>Varios incidentes demuestran la depresión de Vincent Van Gogh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Vincent Van Gogh had a miserable childhood and was described as unstable with emotional problems.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T161910Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
