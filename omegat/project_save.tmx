@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Later in May of the same year, Van Gogh turned himself into the asylum at Remy and was allowed to paint.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T164757Z" creationid="paula" creationdate="20230521T164757Z">
+        <seg>En mayo de ese mismo año, Van Gogh ingresa en el manicomio de Remy y se le permite pintar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Later, there was some competition and friction between them.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T211419Z" creationid="dinag" creationdate="20230511T211419Z">
