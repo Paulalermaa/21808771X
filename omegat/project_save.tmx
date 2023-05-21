@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Van Gogh suffered from some severe active mental disorders which are now thought to have been periods of depression which led him to risky behaviors such as smoking, drinking, trying to cut off his ear, and finally suicide.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T153139Z" creationid="paula" creationdate="20230521T153139Z">
+        <seg>Van Gogh padeció algunos trastornos mentales activos graves que ahora se cree que fueron periodos de depresión que le llevaron a comportamientos arriesgados como fumar, beber, intentar cortarse una oreja y, finalmente, al suicidio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Van Gogh tried his luck in selling art, preaching, and book-keeping.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
