@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matisse was interested in post-impressionism and studied the works of Van Gogh and Paul Cezanne (Spurling, 1998).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T132102Z" creationid="paula" creationdate="20230521T132102Z">
+        <seg>Matisse se interesó por el postimpresionismo y estudió las obras de Van Gogh y Paul Cézanne (Spurling, 1998).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mental Illness</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T154540Z" creationid="maria" creationdate="20230511T154540Z">
