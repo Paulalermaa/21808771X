@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In February 1889, the residents of Arles complained to the authorities that Van Gogh should be placed in an asylum on account of his mental conditions and the depression he was suffering.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T161139Z" creationid="paula" creationdate="20230521T161139Z">
+        <seg>En febrero de 1889, los habitantes de Arles se quejan a las autoridades de que Van Gogh debe ser internado en un manicomio debido a su estado mental y a la depresión que sufre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In October of 1888, Gauguin and Van Gogh agreed to work together and decorate the yellow house when they arrived in Arles.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T132739Z" creationid="paula" creationdate="20230521T132739Z">
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
         <seg>Van Gogh probó suerte vendiendo arte, predicando y llevando la contabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh was later found by local police almost bleeding to death (Heenk, 2013).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T161026Z" creationid="paula" creationdate="20230521T161026Z">
+        <seg>Más tarde, la policía local encontró a Van Gogh casi desangrándose (Heenk, 2013).</seg>
       </tuv>
     </tu>
     <tu>
