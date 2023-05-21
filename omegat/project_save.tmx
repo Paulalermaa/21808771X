@@ -198,6 +198,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dr. Felix Rey and Dr. Peyron supported this diagnosis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T165400Z" creationid="paula" creationdate="20230521T165400Z">
+        <seg>El Dr. Félix Rey y el Dr. Peyron apoyaron este diagnóstico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dr. Gachet, one of Van Gogh’s physicians, treated his illnesses using digitalis that is known to make people see yellow spots.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T165522Z" creationid="paula" creationdate="20230521T165522Z">
+        <seg>El Dr. Gachet, uno de los médicos de Van Gogh, trataba sus enfermedades con digitalina, conocida por hacer que la gente vea manchas amarillas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During his time in Paris in 1886, Van Gogh happened to meet many outstanding artists such as Cormon, Cezanne, Pissarro, Monet, and Gauguin, from whom he learned various art techniques making slight changes in his style and adapting to the world of the Impressionists (Naifeh &amp; Smith, 2011).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T183356Z" creationid="paula" creationdate="20230519T183356Z">
@@ -234,6 +250,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T191037Z" creationid="paula" creationdate="20230519T191037Z">
         <seg>La obra de Édouard Manet muestra una conexión entre el realismo y el postimpresionismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Epilepsy was a common disease during Vincent Van Gogh’s lifetime.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T165316Z" creationid="paula" creationdate="20230521T165316Z">
+        <seg>La epilepsia era una enfermedad común en vida de Vincent Van Gogh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +426,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
         <seg>Sin duda, su obra de arte le sirvió de terapia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>His doctors believed this, as well as his epileptic condition, was caused by his alcohol abuse.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T165448Z" creationid="paula" creationdate="20230521T165448Z">
+        <seg>Sus médicos creían que esto, así como su estado epiléptico, estaba causado por su abuso del alcohol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other possible causes of mental and physical illness</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T165223Z" creationid="paula" creationdate="20230521T165223Z">
+        <seg>Otras posibles causas de enfermedades mentales y físicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other traumatizing events are conflicts and losses, lack of stable support from the close ones, other personal problems, alcohol, and substance abuse (Raynor, 2013).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T140858Z" creationid="paula" creationdate="20230521T140858Z">
@@ -786,6 +826,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230511T161012Z" creationid="HP" creationdate="20230511T161012Z">
         <seg>Sol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Temporal Lobe Epilepsy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T165301Z" creationid="paula" creationdate="20230521T165301Z">
+        <seg>Epilepsia del lóbulo temporal</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Van Gogh was diagnosed with a brain lesion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T165420Z" creationid="paula" creationdate="20230521T165420Z">
+        <seg>A Van Gogh le diagnostican una lesión cerebral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Van Gogh was later found by local police almost bleeding to death (Heenk, 2013).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T161026Z" creationid="paula" creationdate="20230521T161026Z">
@@ -1186,6 +1242,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T161910Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
         <seg>Vincent Van Gogh tuvo una infancia desafortunada y fue descrito como inestable y con problemas emocionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vincent Van Gogh himself thought that he might be suffering from epilepsy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T165333Z" creationid="paula" creationdate="20230521T165333Z">
+        <seg>El propio Vincent Van Gogh pensó que podía padecer epilepsia.</seg>
       </tuv>
     </tu>
     <tu>
