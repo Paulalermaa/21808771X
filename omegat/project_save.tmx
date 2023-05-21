@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure 5 is a timeline showing the important events during Vincent Van Gogh’s life along with important events that were happening in the world at the same time</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T160452Z" creationid="paula" creationdate="20230521T160452Z">
+        <seg>La figura 5 es una línea de tiempo que muestra los acontecimientos importantes durante la vida de Vincent Van Gogh junto con los acontecimientos importantes que estaban ocurriendo en el mundo al mismo tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 5.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T180502Z" creationid="paula" creationdate="20230519T180502Z">
@@ -978,14 +986,6 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
         <seg>A lo largo de esta tesis, el investigador repasará el talento de Vincent Van Gogh.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Timeline of Vincent Van Gogh’s life.</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="paula" changedate="20230519T180847Z" creationid="paula" creationdate="20230519T180847Z">
-        <seg>Línea del tiempo de la vida de Vincent Van Gogh.</seg>
       </tuv>
     </tu>
     <tu>
