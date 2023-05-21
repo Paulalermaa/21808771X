@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He and Van Gogh used the same technique of painting.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T131445Z" creationid="paula" creationdate="20230521T131445Z">
+        <seg>Él y Van Gogh utilizaban la misma técnica de pintura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He created 737 canvases, 275 watercolors, 363 prints and posters, 5,084 drawings some ceramic and stained glass work in 20 years.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T184434Z" creationid="paula" creationdate="20230519T184434Z">
