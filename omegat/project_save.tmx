@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Causes of Depression</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T135216Z" creationid="paula" creationdate="20230521T135216Z">
+        <seg>Causas de la depresión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cezanne and Van Gogh worked together for two years.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T184734Z" creationid="paula" creationdate="20230519T184734Z">
@@ -794,6 +802,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T182055Z" creationid="paula" creationdate="20230519T182055Z">
         <seg>El gobierno de Louis-Phillippe llegó a su fin y así nació la Segunda República Francesa, dirigida por Louis Napoleón (Tocqueville, 1986).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The scientists still argue whether depressions are inflicted from within or from without.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T135310Z" creationid="paula" creationdate="20230521T135310Z">
+        <seg>Los científicos siguen discutiendo si las depresiones se infligen desde dentro o desde fuera.</seg>
       </tuv>
     </tu>
     <tu>
