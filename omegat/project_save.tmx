@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He was inspired by dark colors and was in close acquaintance with Claude Monet who had similar reflection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T132546Z" creationid="paula" creationdate="20230521T132546Z">
+        <seg>Le inspiraban los colores oscuros y mantenía una estrecha relación con Claude Monet, que tenía una reflexión similar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He worked with thick layers of pastel and simple shapes (Van Gogh &amp; Powell, 2003).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T183838Z" creationid="paula" creationdate="20230519T183838Z">
@@ -546,6 +554,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
         <seg>Prusia se hacía con el poder en las provincias del sur de Alemania y Francia quería una compensación en Bélgica para mantener el equilibrio de poder en Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Renoir had a series of best 181 paintings that have been reproduced often (Krell &amp; Manet, 1996).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T132611Z" creationid="paula" creationdate="20230521T132611Z">
+        <seg>Renoir tenía una serie de 181 mejores cuadros que se han reproducido a menudo (Krell &amp; Manet, 1996).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Renoir was a leading painter in post-impressionism and his basic subject of study became the female.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230521T132509Z" creationid="paula" creationdate="20230521T132509Z">
+        <seg>Renoir fue uno de los principales pintores del postimpresionismo y su tema básico de estudio fue la mujer.</seg>
       </tuv>
     </tu>
     <tu>
