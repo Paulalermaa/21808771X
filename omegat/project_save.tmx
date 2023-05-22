@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abstract</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230522T133712Z" creationid="dinag" creationdate="20230522T133712Z">
+        <seg>Resumen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After Gauguin finally left, Van Gogh cut off a part of his ear.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T155121Z" creationid="maria" creationdate="20230511T155121Z">
