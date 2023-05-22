@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During his childhood, he was</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230522T212602Z" creationid="dinag" creationdate="20230522T212602Z">
+        <seg>Durante su infancia, fue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During his time in Paris in 1886, Van Gogh happened to meet many outstanding artists such as Cormon, Cezanne, Pissarro, Monet, and Gauguin, from whom he learned various art techniques making slight changes in his style and adapting to the world of the Impressionists (Naifeh &amp; Smith, 2011).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T183356Z" creationid="paula" creationdate="20230519T183356Z">
@@ -1707,6 +1715,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T211158Z" creationid="dinag" creationdate="20230511T211158Z">
         <seg>Las dos relaciones más cercanas de Vincent Van Gogh parece que fueron con su hermano, Theo, y con Paul Gauguin, un artista contemporáneo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vincent Willem Van Gogh, usually known as Van Gogh&lt;s0&gt;, &lt;/s0&gt;was born in Groot-Zundert, Holland, on March 30, 1853.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230522T212452Z" creationid="dinag" creationdate="20230522T212452Z">
+        <seg>Vincent Willem Van Gogh, normalmente conocido como Van Gogh&lt;s0&gt;,&lt;/s0&gt;nació en Groot-Zundert, Holanda, el 30 de marzo de 1853</seg>
       </tuv>
     </tu>
     <tu>
