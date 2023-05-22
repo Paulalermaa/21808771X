@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As for Van Gogh’s painting, first of all, he drew the house he once lived in.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T180448Z" creationid="maria" creationdate="20230522T180448Z">
+        <seg>En cuanto al cuadro de Van Gogh, en primer lugar, dibujó la casa en la que vivió una vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As for the environmental causes of depression, they are numerous.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T140314Z" creationid="paula" creationdate="20230521T140314Z">
@@ -642,6 +650,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
         <seg>Se puede concluir que los acontecimientos de la infancia de Van Gogh le predispusieron a su enfermedad, y los fracasos posteriores empeoraron su estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can tell about both the relations with an individual’s family and close friends.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T180405Z" creationid="maria" creationdate="20230522T180405Z">
+        <seg>Puede informar tanto sobre las relaciones con la familia como con los amigos íntimos de un individuo.</seg>
       </tuv>
     </tu>
     <tu>
