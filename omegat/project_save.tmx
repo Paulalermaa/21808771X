@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>A good example is the painting called “The Potato Eaters” which was created in 1885 and brought much recognition to the artist.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230522T211955Z" creationid="dinag" creationdate="20230522T211955Z">
+        <seg>Un buen ejemplo es el cuadro llamado "Los comedores de patatas" que fue creado en 1885 y trajo mucho reconocimiento al artista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A historical study began to explore Van Gogh’s depression and his artistic production throughout his close relationship with Gauguin, another artist of his time.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
@@ -578,6 +586,23 @@
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230522T211539Z" creationid="dinag" creationdate="20230522T211539Z">
         <seg>Se cree que su personalidad maníaca era el origen de su extremo entusiasmo por la religión y el arte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>His massive collection of over 800 letters was attributed to a condition called Hypergraphia, a disorder linked to mania and epilepsy, where a person needlessly writes continuously (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230522T211736Z" creationid="dinag" creationdate="20230522T211736Z">
+        <seg>Su enorme colección de más de 800 cartas se atribuyó a una afección llamada hipergrafía, un trastorno vinculado a la manía y la epilepsia, en el que una persona escribe sin necesidad continuamente (Naifeh &amp; Smith, 2011).
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>His works are subtle and filled with light.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230522T211924Z" creationid="dinag" creationdate="20230522T211924Z">
+        <seg>Sus obras son sutiles y llenas de luz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1578,6 +1603,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T152850Z" creationid="paula" creationdate="20230521T152850Z">
         <seg>La enfermedad mental de Van Gogh: ¿Fue depresión?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh’s mind was occupied by beauty while he practiced painting in Belgium.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230522T211916Z" creationid="dinag" creationdate="20230522T211916Z">
+        <seg>La mente de Van Gogh estaba ocupada por la belleza mientras practicaba la pintura en Bélgica.</seg>
       </tuv>
     </tu>
     <tu>
