@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Firstly, a person is required to draw a house.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T121503Z" creationid="maria" creationdate="20230522T121503Z">
+        <seg>En primer lugar, la persona debe dibujar una casa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, depressions may appear because of sudden changes in one’s living conditions or habitual environments.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T140353Z" creationid="paula" creationdate="20230521T140353Z">
@@ -910,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Take one of these pencils, please.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T121546Z" creationid="maria" creationdate="20230522T121546Z">
+        <seg>Coja uno de estos lápices, por favor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Temporal Lobe Epilepsy</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T165301Z" creationid="paula" creationdate="20230521T165301Z">
@@ -978,6 +994,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230507T200006Z" creationid="paula" creationdate="20230507T200006Z">
         <seg>La Guerra Civil fue un levantamiento que creció en las mentes de los hombres europeos de manera que pudieran vencer a la monarquía y dirigir sus propias vidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The examiner gives the following instructions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T121522Z" creationid="maria" creationdate="20230522T121522Z">
+        <seg>El examinador da las siguientes instrucciones.</seg>
       </tuv>
     </tu>
     <tu>
