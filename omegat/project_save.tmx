@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Just draw me as good a house as you can.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T122215Z" creationid="maria" creationdate="20230522T122215Z">
+        <seg>Simplemente dibújame una casa tan buena como puedas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Later in May of the same year, Van Gogh turned himself into the asylum at Remy and was allowed to paint.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T164757Z" creationid="paula" creationdate="20230521T164757Z">
