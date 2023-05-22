@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before passing the test, a person is provided with three separate sheets of paper with words a house, a tree, and a person written on them (Knoff, 2003, p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T121432Z" creationid="maria" creationdate="20230522T121432Z">
+        <seg>Antes de pasar la prueba, la persona recibe tres hojas de papel con las palabras "casa", "árbol" y "persona" escritas en ellas (Knoff, 2003, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Besides, Van Gogh had a lot in common with Lautrec – they both were deeply moved by the Japanese of art with its thin and curvy lines, and complex figures.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230519T190127Z" creationid="paula" creationdate="20230519T190127Z">
@@ -986,6 +994,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T165007Z" creationid="paula" creationdate="20230521T165007Z">
         <seg>El primer periodo fue aquel en el que mostró un gran entusiasmo y emoción hacia su religión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The house-tree-person test is a personality test with the help of an individual’s drawings and his or her subsequent responses to questions reveal various aspects of the personality.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T120903Z" creationid="maria" creationdate="20230522T120903Z">
+        <seg>El test de la casa-árbol-persona es un test de personalidad que se realiza con la ayuda de los dibujos de un individuo y sus posteriores respuestas a las preguntas revelan diversos aspectos de su personalidad.</seg>
       </tuv>
     </tu>
     <tu>
