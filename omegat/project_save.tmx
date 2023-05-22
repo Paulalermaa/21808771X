@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>According to Gayford (2008), in May 1888, Van Gogh decided to rent the right-hand part of the house.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T180616Z" creationid="maria" creationdate="20230522T180616Z">
+        <seg>Según Gayford (2008), en mayo de 1888, Van Gogh decidió alquilar la parte derecha de la casa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After Gauguin finally left, Van Gogh cut off a part of his ear.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T155121Z" creationid="maria" creationdate="20230511T155121Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230522T174958Z" creationid="maria" creationdate="20230522T174958Z">
         <seg>Por ejemplo, el examinador puede preguntar al individuo si ha dibujado a una persona conocida o sólo abstracta, qué le parece el árbol del dibujo, qué casa se asocia con la dibujada en la hoja de papel, etcétera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As can be seen in the painting, this part of the building looks different than any other – it has green shutters on the windows, which is why it contrasts with the rest of the picture.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T180809Z" creationid="maria" creationdate="20230522T180809Z">
+        <seg>Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferente a las demás: tiene contraventanas verdes en las ventanas, por lo que contrasta con el resto del cuadro.</seg>
       </tuv>
     </tu>
     <tu>
