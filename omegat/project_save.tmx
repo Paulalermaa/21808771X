@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As an example, the examiner can ask if an individual has drawn a familiar or just an abstract person, how he or she feels about the tree in the picture, what house is associated with the one drawn on the sheet of paper, and so on.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T174958Z" creationid="maria" creationdate="20230522T174958Z">
+        <seg>Por ejemplo, el examinador puede preguntar al individuo si ha dibujado a una persona conocida o sólo abstracta, qué le parece el árbol del dibujo, qué casa se asocia con la dibujada en la hoja de papel, etcétera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As for the environmental causes of depression, they are numerous.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T140314Z" creationid="paula" creationdate="20230521T140314Z">
