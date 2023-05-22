@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And you may take as long as you wish.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T121837Z" creationid="maria" creationdate="20230522T121837Z">
+        <seg>Y puedes tomarte todo el tiempo que quieras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Art therapy</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230522T120532Z" creationid="maria" creationdate="20230522T120532Z">
@@ -530,6 +538,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230511T160956Z" creationid="HP" creationdate="20230511T160956Z">
         <seg>Hipergrafía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I want you to draw me as good a picture of a house as you can.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T121718Z" creationid="maria" creationdate="20230522T121718Z">
+        <seg>Quiero que me haga el mejor dibujo posible de una casa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1522,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
         <seg>Trabajar en un cuadro le proporcionaba cierto alivio, el que podía proporcionar la terapia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may draw any kind of house you like, it will not be counted against you.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T121800Z" creationid="maria" creationdate="20230522T121800Z">
+        <seg>Puede dibujar el tipo de casa que quiera, no se tendrá en cuenta.</seg>
       </tuv>
     </tu>
     <tu>
