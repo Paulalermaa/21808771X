@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Art therapy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T120532Z" creationid="maria" creationdate="20230522T120532Z">
+        <seg>Terapia artística</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a concept, depression is divided into a common feeling such as “blues” or “sadness” and clinical depression that requires medical treatment and the help of a professional.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T134730Z" creationid="paula" creationdate="20230521T134730Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
         <seg>Al describir la amistad mutua y la relación artística entre Vincent y Gauguin, se observará que Gauguin admiraba mucho los cuadros de Gogh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this section of the paper, I would like to analyze Van Gogh’s personality using his The Yellow House and the house-tree-person test since exactly these objects are painted in the picture.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T120752Z" creationid="maria" creationdate="20230522T120752Z">
+        <seg>En esta sección del artículo, me gustaría analizar la personalidad de Van Gogh a partir de "La casa amarilla" y el test de la casa-árbol-persona, ya que en el cuadro aparecen exactamente estos objetos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1162,6 +1178,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230522T114943Z" creationid="maria" creationdate="20230522T114943Z">
         <seg>Esto afectó a la estabilidad financiera de Francia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This disorder normally affects highly creative individuals who, in most cases, proceed to create ingenious works of art.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T120456Z" creationid="maria" creationdate="20230522T120456Z">
+        <seg>Este transtorno afecta normalmente a individuos muy creativos que, en la mayoría de los casos, proceden a crear ingeniosas obras de arte.</seg>
       </tuv>
     </tu>
     <tu>
