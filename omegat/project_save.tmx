@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, after a short period, the individual suddenly becomes downcast and unhappy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T120332Z" creationid="maria" creationdate="20230522T120332Z">
+        <seg>Sin embargo, tras un breve periodo, el individuo se vuelve reentinamente abatido e infeliz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, it is believed that he suffered from several mental illnesses (Naifeh &amp; Smith, 2011).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T204158Z" creationid="dinag" creationdate="20230511T201822Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T135622Z" creationid="paula" creationdate="20230521T135622Z">
         <seg>Algunos expertos afirman que la depresión se produce debido a los factores genéticos, otros sostienen que se desarrolla debido a los factores externos (Raynor, 2013).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sommers (2003) explains manic depression as a mental disorder that enables one to experience moments of extreme joy and hyperactivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T120237Z" creationid="maria" creationdate="20230522T120237Z">
+        <seg>Sommers (2003) explica la depresión maníaca como un transtorno mental que permite experimentar momentos de extrema alegría e hiperactividad.</seg>
       </tuv>
     </tu>
     <tu>
