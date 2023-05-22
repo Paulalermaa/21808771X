@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a person finishes the task, he or she is asked questions about the pictures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230522T174842Z" creationid="maria" creationdate="20230522T174842Z">
+        <seg>Cuando una persona termina la tarea, se le hacen preguntas sobre los dibujos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where Gauguin supported abstract art, Vincent Van Gogh supported the reality of the world.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T211600Z" creationid="dinag" creationdate="20230511T211600Z">
