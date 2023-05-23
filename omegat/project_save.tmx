@@ -737,6 +737,14 @@ A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo ca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>His paintings were exhibited in Paris and Brussels.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230523T101737Z" creationid="dinag" creationdate="20230523T101737Z">
+        <seg>Sus cuadros se expusieron en París y Bruselas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>His works are subtle and filled with light.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230522T211924Z" creationid="dinag" creationdate="20230522T211924Z">
@@ -1810,6 +1818,14 @@ A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo ca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This way, Van Gogh’s art begun to gain the recognition and attention of art connoisseurs and critics only after the artist had passed away (Stolwijk &amp; Thomson, 1999).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230523T101809Z" creationid="dinag" creationdate="20230523T101809Z">
+        <seg>De este modo, el arte de Van Gogh empezó a ganar el reconocimiento y la atención de entendidos y críticos de arte sólo después de que el artista hubiera fallecido (Stolwijk &amp; Thomson, 1999).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Though he resented leaving the pleasant ambiance of home, it was only when he went to a new middle school, Willem II College in Tilburg, that he encountered Huysmans, a renowned artist from Paris who later helped him to cultivate an interest in art (Naifeh &amp; Smith, 2011).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230522T212715Z" creationid="dinag" creationdate="20230522T212715Z">
@@ -2020,8 +2036,8 @@ A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo ca
       <tuv lang="en">
         <seg>Van Gogh’s most striking works were created in less than three years but his style was individual and inimitable and that made him stand out as a genius.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230523T101541Z" creationid="dinag" creationdate="20230523T101541Z">
-        <seg>En la actualidad, los cuadros de Van Gogh cuestan millones de dólares.</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230523T101615Z" creationid="dinag" creationdate="20230523T101541Z">
+        <seg>Las obras más llamativas de Van Gogh fueron creadas en menos de tres años, pero su estilo era individual e inimitable y eso le hizo destacar como genio.</seg>
       </tuv>
     </tu>
     <tu>
