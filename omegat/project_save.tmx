@@ -751,6 +751,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the book, it is explained how Theo was so close to Vincent Van Gogh that Theo himself died soon after Vincent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230523T093358Z" creationid="dinag" creationdate="20230523T093257Z">
+        <seg>En el libro, se explica cómo Theo estaba tan unido a Vincent Van Gogh que el propio Theo murió poco después que Vincent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In these letters to his brother, Vincent disclosed the pain and inner conflicts that affected him throughout his life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230523T093339Z" creationid="dinag" creationdate="20230523T093339Z">
+        <seg>En estas cartas a su hermano, Vincent reveló el dolor y los conflictos interiores que le afectaron a lo largo de su vida. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this house, Vincent had finally found some good friends and was not only painting but communicating as well (Gayford, 2008).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230522T180942Z" creationid="maria" creationdate="20230522T180942Z">
@@ -1411,6 +1427,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230522T175519Z" creationid="maria" creationdate="20230522T175519Z">
         <seg>Entonces, teniendo en cuenta tanto el carácter de los dibujos como las respuestas del individuo a las preguntas, se pueden sacar conclusiones particulares sobre su personalidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theo tried to understand the deep-seated melancholy that possessed Vincent which was revealed in the book of their letters to each other, &lt;e0&gt;Dear Theo: The Autobiography of Vincent Van Gogh&lt;/e0&gt; (Van Gogh &amp; Stone, 1995).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230523T093226Z" creationid="dinag" creationdate="20230523T093226Z">
+        <seg>Theo trató de comprender la profunda melancolía que poseía Vincent, revelada en el libro de cartas que se escribieron el uno al otro,&lt;e0&gt; Querido Theo: La autobiografía de Vincent Van Gogh &lt;/e0&gt; (Van Gogh &amp; Stone, 1995).</seg>
       </tuv>
     </tu>
     <tu>
