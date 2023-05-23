@@ -719,6 +719,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In 1886 Vincent moved to Paris where he lived with Theo who was the manager of Goupil’s gallery.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230523T093130Z" creationid="dinag" creationdate="20230523T093130Z">
+        <seg>En 1886 Vincent se trasladó a París, donde vivió con Theo, que era el director de la galería de Goupil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In February 1889, the residents of Arles complained to the authorities that Van Gogh should be placed in an asylum on account of his mental conditions and the depression he was suffering.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T161139Z" creationid="paula" creationdate="20230521T161139Z">
@@ -1755,6 +1763,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
         <seg>Vincent Van Gogh fue un prolífico artista del siglo XIX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vincent Van Gogh was extremely close to his brother Theo, whom he believed to be his confidante.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230523T092549Z" creationid="dinag" creationdate="20230523T092549Z">
+        <seg>Vincent Van Gogh estaba muy unido a su hermano Theo, al que consideraba su confidente.</seg>
       </tuv>
     </tu>
     <tu>
