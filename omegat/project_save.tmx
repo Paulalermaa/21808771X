@@ -871,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is visible hos strongly the artist was influenced by his outstanding contemporaries.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230523T095236Z" creationid="dinag" creationdate="20230523T095236Z">
+        <seg>Es evidente que el artista estaba muy influido por sus contemporáneos más destacados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was clear that since his childhood, Vincent Van Gogh had an early inclination towards painting and he eventually created 2100 artworks comprised of oil paintings, watercolors, art, sketches, and self-portraits which vouch for his talent.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230522T212820Z" creationid="dinag" creationdate="20230522T212820Z">
@@ -1051,6 +1059,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
         <seg>Ningún país extranjero acudió en ayuda de los once estados de la confederación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not only his style but the subjects were adapted from the works of the Impressionists – flowers, well-lit sceneries, still lives.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230523T095625Z" creationid="dinag" creationdate="20230523T095625Z">
+        <seg>No sólo su estilo, sino también los temas, fueron adaptados de las obras de los impresionistas: flores, paisajes bien iluminados, bodegones.</seg>
       </tuv>
     </tu>
     <tu>
