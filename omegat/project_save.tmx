@@ -793,6 +793,14 @@ A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo ca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, The Yellow House has several persons on it, so it is impossible to find out which one of them represents the artist.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230524T144605Z" creationid="maria" creationdate="20230524T144605Z">
+        <seg>Sin embargo, en La casa amarilla aparecen varias personas, por lo que es imposible averiguar cuál de ellas representa al artista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, after a short period, the individual suddenly becomes downcast and unhappy.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230522T120332Z" creationid="maria" creationdate="20230522T120332Z">
@@ -1302,6 +1310,14 @@ A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo ca
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
         <seg>Prusia se hacía con el poder en las provincias del sur de Alemania y Francia quería una compensación en Bélgica para mantener el equilibrio de poder en Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Psychological and esthetic analysis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230524T144659Z" creationid="maria" creationdate="20230524T144659Z">
+        <seg>Análisis psicológico y estético</seg>
       </tuv>
     </tu>
     <tu>
