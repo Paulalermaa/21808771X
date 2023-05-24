@@ -795,8 +795,8 @@ A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo ca
       <tuv lang="en">
         <seg>However, The Yellow House has several persons on it, so it is impossible to find out which one of them represents the artist.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230524T144605Z" creationid="maria" creationdate="20230524T144605Z">
-        <seg>Sin embargo, en La casa amarilla aparecen varias personas, por lo que es imposible averiguar cuál de ellas representa al artista.</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230524T144955Z" creationid="maria" creationdate="20230524T144605Z">
+        <seg>Sin embargo, en "La casa amarilla" aparecen varias personas, por lo que es imposible averiguar cuál de ellas representa al artista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1578,6 +1578,14 @@ A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo ca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The painting is full of life as the choice of colors, bright yellow, and deep blue.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230524T144738Z" creationid="maria" creationdate="20230524T144738Z">
+        <seg>El cuadro está lleno de vida, como la elección de los colores, amarillo brillante y azul intenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The problem of the connection between Van Gogh’s artistic talent and his mental illness is still unsolved.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T154336Z" creationid="maria" creationdate="20230511T154336Z">
@@ -1858,6 +1866,14 @@ A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo ca
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This represents a joyful period in the artist’s life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230524T144906Z" creationid="maria" creationdate="20230524T144906Z">
+        <seg>Representa un periodo alegre en la vida del artista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This researcher has also been influenced by Van Gogh and wanted to learn more about him.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
@@ -2070,6 +2086,14 @@ A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo ca
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230521T152850Z" creationid="paula" creationdate="20230521T152850Z">
         <seg>La enfermedad mental de Van Gogh: ¿Fue depresión?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh’s early childhood was a far cry from what he represented in the painting.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230524T144945Z" creationid="maria" creationdate="20230524T144945Z">
+        <seg>La primera infancia de Van Gogh dista mucho de lo que representa en el cuadro.</seg>
       </tuv>
     </tu>
     <tu>
