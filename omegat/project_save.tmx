@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>According to Gayford (2008), the Yellow House comprised of white-washed walls, flower decorations as well as Japanese wall illustrations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230524T145404Z" creationid="maria" creationdate="20230524T145404Z">
+        <seg>Según Gayford (2008), la Casa Amarilla estaba compuesta por paredes encaladas, adornos florales e ilustraciones murales japonesas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After Gauguin and Van Gogh agreed to work together, they traveled to the south of France, and bought the yellow house in Arles in early 1888, in the Provence section of France, and began working on the house (Naifeh &amp; Smith, 2011).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230523T100154Z" creationid="dinag" creationdate="20230523T100154Z">
@@ -1830,6 +1838,14 @@ A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo ca
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230522T114943Z" creationid="maria" creationdate="20230522T114943Z">
         <seg>Esto afectó a la estabilidad financiera de Francia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This art is impressionist.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230524T145016Z" creationid="maria" creationdate="20230524T145016Z">
+        <seg>Este arte es impresionista.</seg>
       </tuv>
     </tu>
     <tu>
