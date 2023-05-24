@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although the research is rather valuable and analyzes Van Gogh’s mental state well enough, it should be admitted that it does have several limitations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230524T152242Z" creationid="maria" creationdate="20230524T152242Z">
+        <seg>Aunque la investigación es bastante valiosa y analiza bastante bien el estado mental de Van Gogh, hay que admitir que tiene varias limitaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although the war took place in the United States in North America, the events in America influenced life in Europe since the union decided to blockade the Confederate seaports which supplied cotton and other material into Europe.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
@@ -1686,6 +1694,14 @@ A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo ca
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230522T121522Z" creationid="maria" creationdate="20230522T121522Z">
         <seg>El examinador da las siguientes instrucciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first and perhaps the greatest one is that the artist is dead now, so it is impossible to read his interview in one of the modern magazines or get any first-hand information.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230524T153003Z" creationid="maria" creationdate="20230524T153003Z">
+        <seg>La primera y quizá la mayor es que el artista ya está muerto, por lo que es imposible leer su entrevista en una de las revistas modernas u obtener información de primera mano.</seg>
       </tuv>
     </tu>
     <tu>
