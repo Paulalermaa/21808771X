@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Cut 15% off&lt;/s0&gt; your first order</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135324Z" creationid="HP" creationdate="20230526T135324Z">
+        <seg>&lt;s0&gt;Corte del 15% off&lt;/s0&gt; su primer pedido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A closer look at it will reveal the impact of Gaugin and other Impressionists of the time such as Monet – the colors and the blurry and flowing nature of the objects, the bright light, and very short brush strokes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230526T131402Z" creationid="dinag" creationdate="20230526T131402Z">
@@ -851,6 +859,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230526T131834Z" creationid="dinag" creationdate="20230526T131834Z">
         <seg>Por ejemplo, el conocido incidente en el que Van Gogh utilizó una navaja para mutilarse la oreja en diciembre de 1888 puede considerarse un acto de autolesión causado por el agobio emocional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For only &lt;s0&gt;$13.00&lt;/s0&gt; &lt;s1&gt;$11.05/page&lt;/s1&gt; &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135432Z" creationid="HP" creationdate="20230526T135432Z">
+        <seg>Solo por&lt;s0&gt;13.00 euros&lt;/s0&gt; &lt;s1&gt;11.05 euros /página&lt;/s1&gt; &lt;br2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2099,6 +2115,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T120954Z" creationid="paula" creationdate="20230526T120954Z">
         <seg>La obra de Paul Cézanne sentó las bases de la pintura postimpresionista en Francia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paul Gauguin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135330Z" creationid="HP" creationdate="20230526T135330Z">
+        <seg>Paul Gauguin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3352,6 +3376,14 @@ Generador de portadas</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use discount</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135230Z" creationid="HP" creationdate="20230526T135230Z">
+        <seg>Use descuento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>VAT Number:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130642Z" creationid="paula" creationdate="20230526T130642Z">
@@ -3712,6 +3744,14 @@ Generador de portadas</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We’ll deliver a &lt;s0&gt;custom paper&lt;/s0&gt; tailored to your requirements.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135246Z" creationid="HP" creationdate="20230526T135246Z">
+        <seg>Le entregaremos un &lt;s0&gt;documento personalizado&lt;/s0&gt; adaptado a sus necesidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We’ll write a &lt;s0&gt;&lt;s1&gt;100% customized&lt;/s1&gt; paper&lt;/s0&gt; this fast!</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T134415Z" creationid="HP" creationdate="20230526T134415Z">
@@ -3884,6 +3924,14 @@ Generador de portadas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T132205Z" creationid="HP" creationdate="20230526T132205Z">
         <seg>página web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>you can get a &lt;s3&gt;custom-written &lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135514Z" creationid="HP" creationdate="20230526T135514Z">
+        <seg> &lt;s3&gt; puede obtener un &lt;s3&gt;escrito a medida &lt;br4&gt;&lt;br4&gt;</seg>
       </tuv>
     </tu>
     <tu>
