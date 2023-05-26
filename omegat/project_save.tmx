@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Business Tools</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133059Z" creationid="HP" creationdate="20230526T133059Z">
+        <seg>Herramientas empresariales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Careers</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131514Z" creationid="paula" creationdate="20230526T131514Z">
@@ -326,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ChatGPT Detection Tool</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132948Z" creationid="HP" creationdate="20230526T132948Z">
+        <seg>Herramienta de detección de ChatGPT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the price of your paper</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131913Z" creationid="paula" creationdate="20230526T131300Z">
@@ -354,6 +370,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130553Z" creationid="paula" creationdate="20230526T130553Z">
         <seg>Compañía:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Concluding Sentence Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133005Z" creationid="HP" creationdate="20230526T133005Z">
+        <seg>Generador de frases de conclusión
+Generador de frases finales&lt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,6 +1087,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hook Sentence Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133021Z" creationid="HP" creationdate="20230526T133021Z">
+        <seg>Generador de frases gancho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However the brief friendship between these artists dissolved fast and Lautrec didn’t hear from Van Gogh after that (Van Gogh &amp; Powell, 2003).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T123744Z" creationid="paula" creationdate="20230526T123744Z">
@@ -1694,6 +1727,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mission Statement Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132824Z" creationid="HP" creationdate="20230526T132824Z">
+        <seg>Generador de declaraciones de misión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moreover, it is recognized as the cause of his incredibly fast art production.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230526T130022Z" creationid="dinag" creationdate="20230526T130022Z">
@@ -1890,6 +1931,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T135418Z" creationid="HP" creationdate="20230519T135418Z">
         <seg>Realizar los hallazgos e interpretarlos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Personal Statement Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133039Z" creationid="HP" creationdate="20230526T133039Z">
+        <seg>Generador de declaraciones personales</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,6 +2959,23 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Title Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132838Z" creationid="HP" creationdate="20230526T132838Z">
+        <seg>Generador de títulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Title Page Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132916Z" creationid="HP" creationdate="20230526T132916Z">
+        <seg>
+Generador de portadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To conclude, Vincent van Gogh’s paintings are full of vivid positive and dark negative emotions, which often reflect the painter’s state of mind.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T153602Z" creationid="maria" creationdate="20230511T153602Z">
@@ -2962,6 +3028,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T132435Z" creationid="HP" creationdate="20230526T132435Z">
         <seg>Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Topic Sentence Maker</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132932Z" creationid="HP" creationdate="20230526T132932Z">
+        <seg>Creador de frases temáticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3290,6 +3364,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T154221Z" creationid="maria" creationdate="20230511T154221Z">
         <seg>Vincent van Gogh tuvo una infancia complicada, y las dificultades de su vida posterior empeoraron su estado mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vision Statement Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132854Z" creationid="HP" creationdate="20230526T132854Z">
+        <seg>Generador de declaraciones de visión</seg>
       </tuv>
     </tu>
     <tu>
