@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even though he was somber, his paintings reflected hope and happiness (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130250Z" creationid="dinag" creationdate="20230526T130250Z">
+        <seg>Aunque era sombrío, sus cuadros reflejaban esperanza y felicidad (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even though the themes of his work were sometimes somber, Vincent Van Gogh’s paintings reflected hope and happiness.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T200758Z" creationid="dinag" creationdate="20230511T200758Z">
@@ -1762,6 +1770,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T125225Z" creationid="paula" creationdate="20230526T125225Z">
         <seg>El primer periodo fue aquel en el que mostró un gran entusiasmo y emoción hacia su religión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The greatest achievement of the genius that Vincent Van Gogh was that his art was ahead of its time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130311Z" creationid="dinag" creationdate="20230526T130311Z">
+        <seg>El mayor logro del genio que fue Vincent Van Gogh fue que su arte se adelantó a su tiempo..</seg>
       </tuv>
     </tu>
     <tu>
