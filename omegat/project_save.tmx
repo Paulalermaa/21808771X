@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;&lt;e1&gt;The Troubled Life of Vincent Van Gogh&lt;/e1&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230526T154209Z" creationid="maria" creationdate="20230526T154209Z">
+        <seg>&lt;a0&gt;&lt;e1&gt;La turbulenta vida de Vincent Van Gogh&lt;/e1&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;SWOT Analysis&lt;/a0&gt; &lt;a1&gt;SOAR Analysis&lt;/a1&gt; &lt;a2&gt;VRIO Analysis&lt;/a2&gt; &lt;a3&gt;PESTEL Analysis&lt;/a3&gt; &lt;a4&gt;Porter’s Five Forces&lt;/a4&gt; &lt;a5&gt;DESTEP Template&lt;/a5&gt; &lt;a6&gt;VMOST Template&lt;/a6&gt; &lt;a7&gt;7Ps Template&lt;/a7&gt; &lt;a8&gt;SMART Template&lt;/a8&gt; &lt;a9&gt;STP Template&lt;/a9&gt; &lt;a10&gt;7S McKinsey Template&lt;/a10&gt; &lt;a11&gt;STEEPLE Template&lt;/a11&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T134211Z" creationid="HP" creationdate="20230526T134211Z">
@@ -258,6 +266,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T120536Z" creationid="paula" creationdate="20230526T120536Z">
         <seg>Aunque los once estados secesionistas intentaron formar su propio país, el poder de la Unión era demasiado fuerte y Estados Unidos permaneció como una sola nación (Keegan, 2010).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although the research is rather valuable and analyzes Van Gogh’s mental state well enough, it should be admitted that it does have several limitations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230526T153858Z" creationid="maria" creationdate="20230526T153858Z">
+        <seg>Aunque la investigación es bastante valiosa y analiza bastante bien el estado mental de Van Gogh, hay que admitir que tiene varias limitaciones.</seg>
       </tuv>
     </tu>
     <tu>
