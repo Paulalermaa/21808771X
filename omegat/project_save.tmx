@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>#cite-this</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134837Z" creationid="HP" creationdate="20230526T134837Z">
+        <seg>#cite-esto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3 hours!</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T134322Z" creationid="HP" creationdate="20230526T134322Z">
@@ -30,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt; &lt;s1&gt; &lt;u2&gt;&lt;/u2&gt; &lt;/s1&gt; &lt;s3&gt;Print&lt;/s3&gt; &lt;/a0&gt; &lt;a4&gt; &lt;s5&gt; &lt;u6&gt;&lt;/u6&gt; &lt;/s5&gt; &lt;s7&gt;Сite this&lt;/s7&gt; &lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134847Z" creationid="HP" creationdate="20230526T134847Z">
+        <seg>&lt;a0&gt; &lt;s1&gt; &lt;u2&gt;&lt;/u2&gt; &lt;/s1&gt; &lt;s3&gt;Print&lt;/s3&gt; &lt;/a0&gt; &lt;a4&gt; &lt;s5&gt; &lt;u6&gt;&lt;/u6&gt; &lt;/s5&gt; &lt;s7&gt;Сite esto&lt;/s7&gt; &lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;SWOT Analysis&lt;/a0&gt; &lt;a1&gt;SOAR Analysis&lt;/a1&gt; &lt;a2&gt;VRIO Analysis&lt;/a2&gt; &lt;a3&gt;PESTEL Analysis&lt;/a3&gt; &lt;a4&gt;Porter’s Five Forces&lt;/a4&gt; &lt;a5&gt;DESTEP Template&lt;/a5&gt; &lt;a6&gt;VMOST Template&lt;/a6&gt; &lt;a7&gt;7Ps Template&lt;/a7&gt; &lt;a8&gt;SMART Template&lt;/a8&gt; &lt;a9&gt;STP Template&lt;/a9&gt; &lt;a10&gt;7S McKinsey Template&lt;/a10&gt; &lt;a11&gt;STEEPLE Template&lt;/a11&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T134211Z" creationid="HP" creationdate="20230526T134211Z">
@@ -42,6 +58,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T133601Z" creationid="HP" creationdate="20230526T133601Z">
         <seg>&lt;a0&gt;Máquina de Сitación&lt;/a0&gt; &lt;a1&gt;Conclusión Generador&lt;/a1&gt; &lt;a2&gt;Formulador de preguntas de investigación&lt;/a2&gt; &lt;a3&gt;&lt;/a3&gt; &lt;a4&gt;&lt;/a4&gt; &lt;a5&gt;&lt;/a5&gt; &lt;a6&gt;&lt;/a6&gt; &lt;a7&gt;&lt;/a7&gt; &lt;a8&gt;&lt;/a8&gt; &lt;a9&gt;&lt;/a9&gt; &lt;a10&gt;&lt;/a10&gt; &lt;a11&gt;&lt;/a11&gt; &lt;a12&gt; &lt;/a12&gt; &lt;a13&gt;&lt;/a13&gt; &lt;a14&gt;&lt;/a14&gt; &lt;a15&gt;&lt;/a15&gt; &lt;a16&gt;&lt;/a16&gt; &lt;a17&gt;&lt;/a17&gt; &lt;a18&gt;&lt;/a18&gt; &lt;a19&gt;&lt;/a19&gt; &lt;a20&gt;&lt;/a20&gt;   Generador de títulos Generador de enunciados Generador de páginas de título Formulador de oraciones temáticas Herramienta de detección de ChatGPT Generador de oraciones finales Generador de oraciones gancho Generador de enunciados personales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;&lt;s2&gt;StudyCorgi&lt;/s2&gt;&lt;/a1&gt;&lt;/s0&gt; &lt;s3&gt;&lt;/s3&gt;&lt;s4&gt;&lt;a5&gt;&lt;s6&gt;Psychology&lt;/s6&gt;&lt;/a5&gt;&lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134807Z" creationid="HP" creationdate="20230526T134807Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;&lt;s2&gt;StudyCorgi&lt;/s2&gt;&lt;/a1&gt;&lt;/s0&gt; &lt;s3&gt;&lt;/s3&gt;&lt;s4&gt;&lt;a5&gt;&lt;s6&gt;Psicología&lt;/s6&gt;&lt;/a5&gt;&lt;/s4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +218,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
         <seg>Guerra Civil Americana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Anxiety Disorders Theory and Research</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134729Z" creationid="HP" creationdate="20230526T134729Z">
+        <seg>Teoría e investigación de los trastornos de ansiedad</seg>
       </tuv>
     </tu>
     <tu>
@@ -1815,6 +1847,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Memory Retention and Improvement Strategies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134649Z" creationid="HP" creationdate="20230526T134649Z">
+        <seg>Estrategias de retención y mejora de la memoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mental Illness</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T154540Z" creationid="maria" creationdate="20230511T154540Z">
@@ -2095,6 +2135,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Print</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134823Z" creationid="HP" creationdate="20230526T134823Z">
+        <seg>Imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Privacy &amp; Cookies Policy</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130735Z" creationid="paula" creationdate="20230526T130735Z">
@@ -2131,6 +2179,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T141859Z" creationid="HP" creationdate="20230519T141859Z">
         <seg>Análisis psicológico y estético</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Psychology</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134749Z" creationid="HP" creationdate="20230526T134749Z">
+        <seg>Psicología</seg>
       </tuv>
     </tu>
     <tu>
@@ -3248,6 +3304,22 @@ Generador de portadas</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Updated: Dec 4th, 2020</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134714Z" creationid="HP" creationdate="20230526T134714Z">
+        <seg>actualizado: Dec 4th, 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updated: Dec 5th, 2020</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134634Z" creationid="HP" creationdate="20230526T134634Z">
+        <seg>actualizado: Dec 5th, 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>VAT Number:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130642Z" creationid="paula" creationdate="20230526T130642Z">
@@ -3396,6 +3468,14 @@ Generador de portadas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T132231Z" creationid="HP" creationdate="20230526T132231Z">
         <seg>El arte de Van Gogh, la influencia de Gogen y la enfermedad mental | Ejemplo de ensayo gratuito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh’s Art, Gogen’s Influence and Mental Illness</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134907Z" creationid="HP" creationdate="20230526T134907Z">
+        <seg>El arte de Van Gogh, la influencia de Gogen y la enfermedad mental</seg>
       </tuv>
     </tu>
     <tu>
@@ -3756,6 +3836,14 @@ Generador de portadas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T132535Z" creationid="HP" creationdate="20230526T132535Z">
         <seg>Máquina de Сitación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“Managing Transitions” by William Bridges</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134704Z" creationid="HP" creationdate="20230526T134704Z">
+        <seg>"Gestionar las transiciones", de William Bridges</seg>
       </tuv>
     </tu>
     <tu>
