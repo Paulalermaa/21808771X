@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Сitation Machine&lt;/a0&gt; &lt;a1&gt;Conclusion Generator&lt;/a1&gt; &lt;a2&gt;Research Question Maker&lt;/a2&gt; &lt;a3&gt;Thesis Maker&lt;/a3&gt; &lt;a4&gt;Research Hypothesis Generator&lt;/a4&gt; &lt;a5&gt;Reworder&lt;/a5&gt; &lt;a6&gt;Research Problem Generator&lt;/a6&gt; &lt;a7&gt;Rephraser&lt;/a7&gt; &lt;a8&gt;Research Purpose Generator&lt;/a8&gt; &lt;a9&gt;Summary Generator&lt;/a9&gt; &lt;a10&gt;Research Objectives Generator&lt;/a10&gt; &lt;a11&gt;Read My Paper&lt;/a11&gt; &lt;a12&gt;Mission Statement Generator&lt;/a12&gt; &lt;a13&gt;Title Generator&lt;/a13&gt; &lt;a14&gt;Vision Statement Generator&lt;/a14&gt; &lt;a15&gt;Title Page Generator&lt;/a15&gt; &lt;a16&gt;Topic Sentence Maker&lt;/a16&gt; &lt;a17&gt;ChatGPT Detection Tool&lt;/a17&gt; &lt;a18&gt;Concluding Sentence Generator&lt;/a18&gt; &lt;a19&gt;Hook Sentence Generator&lt;/a19&gt; &lt;a20&gt;Personal Statement Generator&lt;/a20&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133601Z" creationid="HP" creationdate="20230526T133601Z">
+        <seg>&lt;a0&gt;Máquina de Сitación&lt;/a0&gt; &lt;a1&gt;Conclusión Generador&lt;/a1&gt; &lt;a2&gt;Formulador de preguntas de investigación&lt;/a2&gt; &lt;a3&gt;&lt;/a3&gt; &lt;a4&gt;&lt;/a4&gt; &lt;a5&gt;&lt;/a5&gt; &lt;a6&gt;&lt;/a6&gt; &lt;a7&gt;&lt;/a7&gt; &lt;a8&gt;&lt;/a8&gt; &lt;a9&gt;&lt;/a9&gt; &lt;a10&gt;&lt;/a10&gt; &lt;a11&gt;&lt;/a11&gt; &lt;a12&gt; &lt;/a12&gt; &lt;a13&gt;&lt;/a13&gt; &lt;a14&gt;&lt;/a14&gt; &lt;a15&gt;&lt;/a15&gt; &lt;a16&gt;&lt;/a16&gt; &lt;a17&gt;&lt;/a17&gt; &lt;a18&gt;&lt;/a18&gt; &lt;a19&gt;&lt;/a19&gt; &lt;a20&gt;&lt;/a20&gt;   Generador de títulos Generador de enunciados Generador de páginas de título Formulador de oraciones temáticas Herramienta de detección de ChatGPT Generador de oraciones finales Generador de oraciones gancho Generador de enunciados personales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A closer look at it will reveal the impact of Gaugin and other Impressionists of the time such as Monet – the colors and the blurry and flowing nature of the objects, the bright light, and very short brush strokes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230526T131402Z" creationid="dinag" creationdate="20230526T131402Z">
