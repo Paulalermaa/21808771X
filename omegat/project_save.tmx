@@ -1591,6 +1591,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this section of the paper, I would like to analyze Van Gogh’s personality using his The Yellow House and the house-tree-person test since exactly these objects are painted in the picture.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T140427Z" creationid="HP" creationdate="20230526T140427Z">
+        <seg>En esta sección del trabajo, me gustaría analizar la personalidad de Van Gogh utilizando su La casa amarilla y el test casa-árbol-persona ya que exactamente estos objetos están pintados en el cuadro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Influence of other artists</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T120911Z" creationid="paula" creationdate="20230526T120911Z">
@@ -2883,6 +2891,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T133629Z" creationid="HP" creationdate="20230519T133629Z">
         <seg>El método histórico de investigación es el que comprende el proceso de investigar los hechos ocurridos en el pasado y las cosas que se refieren a él. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The house-tree-person test is a personality test with the help of an individual’s drawings and his or her subsequent responses to questions reveal various aspects of the personality.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T140441Z" creationid="HP" creationdate="20230526T140441Z">
+        <seg>El test de la casa-árbol-persona es un test de personalidad que, con la ayuda de los dibujos de un individuo y sus posteriores respuestas a las preguntas, revela diversos aspectos de su personalidad.</seg>
       </tuv>
     </tu>
     <tu>
