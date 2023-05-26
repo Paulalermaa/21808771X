@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The French Revolution is also commonly called the February Revolution and lasted from 23&lt;s0&gt;rd&lt;/s0&gt; February until 2&lt;s1&gt;nd&lt;/s1&gt; December 1848.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T115848Z" creationid="paula" creationdate="20230526T115848Z">
+        <seg>La Revolución Francesa es comúnmente llamada la Revolución de Febrero y duró desde el 23 &lt;s0&gt;de&lt;/s0&gt; febrero hasta el 2 &lt;s1&gt;de&lt;/s1&gt; diciembre de 1848.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The United States government did not want them to secede.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
@@ -1290,6 +1298,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T133654Z" creationid="HP" creationdate="20230519T133654Z">
         <seg>Estas no son solo fechas y ocasiones significativas que son de interés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These civil uprisings broke out through Europe and we’re not always successful, but in France, it led to a new and free country.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T120213Z" creationid="paula" creationdate="20230526T120213Z">
+        <seg>Estas revueltas civiles estallaron en toda Europa y no siempre tuvieron éxito, pero en Francia dieron lugar a un país nuevo y libre. </seg>
       </tuv>
     </tu>
     <tu>
