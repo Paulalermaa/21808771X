@@ -158,10 +158,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Besides, Van Gogh had a lot in common with Lautrec – they both were deeply moved by the Japanese of art with its thin and curvy lines, and complex figures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T123731Z" creationid="paula" creationdate="20230526T123731Z">
+        <seg>Además, Van Gogh tenía mucho en común con Lautrec: ambos estaban profundamente conmovidos por el arte japonés, con sus líneas finas y curvas, y sus figuras complejas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Both primary and secondary sources can be used to conduct historical research.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T134213Z" creationid="HP" creationdate="20230519T134213Z">
         <seg>Tanto las fuentes primarias como las secundarias se pueden utilizar para realizar investigaciones históricas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cezanne and Van Gogh worked together for two years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T123652Z" creationid="paula" creationdate="20230526T123642Z">
+        <seg>Cézanne y Van Gogh trabajaron juntos durante dos años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cezanne’s impact is visible in Van Gogh’s still lives and fruit paintings, the two painters share similar vague impressionistic oils with hesitant edges and flickering colors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T123710Z" creationid="paula" creationdate="20230526T123710Z">
+        <seg>El impacto de Cézanne es visible en las naturalezas muertas y los cuadros de frutas de Van Gogh, los dos pintores comparten óleos impresionistas vagos similares con bordes vacilantes y colores parpadeantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +226,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230507T194722Z" creationid="paula" creationdate="20230507T192628Z">
         <seg>La inestabilidad económica condujo al crecimiento de la brecha entre riqueza y pobreza en Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edouard Manet (1832-1883) and Henri Matisse (1869- 1954)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T123820Z" creationid="paula" creationdate="20230526T123752Z">
+        <seg>Édouard Manet (1832-1883) y Henri Matisse (1869- 1954)</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He created 737 canvases, 275 watercolors, 363 prints and posters, 5,084 drawings some ceramic and stained glass work in 20 years.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T123612Z" creationid="paula" creationdate="20230526T123612Z">
+        <seg>Creó 737 lienzos, 275 acuarelas, 363 grabados y carteles, 5084 dibujos algunos trabajos en cerámica y vidrieras en 20 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He did not attain notoriety until after his death and thus remained poor throughout his life.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T201932Z" creationid="dinag" creationdate="20230511T201843Z">
@@ -350,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He was a very famous draftsman who liked to work on cardboard.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T123557Z" creationid="paula" creationdate="20230526T123557Z">
+        <seg>Fue un dibujante muy famoso al que le gustaba trabajar sobre cartón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He was insane and lonely; his rejection by Gauguin led to periods of depression.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T133015Z" creationid="HP" creationdate="20230519T133015Z">
@@ -370,6 +418,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T123502Z" creationid="paula" creationdate="20230526T123502Z">
         <seg>Trabajaba con gruesas capas de pastel y formas sencillas (Van Gogh &amp; Powell, 2003).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Henri De Toulouse Lautrec (1864- 1901)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T123534Z" creationid="paula" creationdate="20230526T123534Z">
+        <seg>Henri de Toulouse Lautrec (1864- 1901)</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +482,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T141615Z" creationid="HP" creationdate="20230519T141615Z">
         <seg>tiempo historico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However the brief friendship between these artists dissolved fast and Lautrec didn’t hear from Van Gogh after that (Van Gogh &amp; Powell, 2003).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T123744Z" creationid="paula" creationdate="20230526T123744Z">
+        <seg>Sin embargo, la breve amistad entre estos artistas se disolvió rápidamente y Lautrec no volvió a saber nada de Van Gogh (Van Gogh &amp; Powell, 2003).</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It was in Paris where Van Gogh met many other French painters like Henri Matisse and Edouard Manet.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T123838Z" creationid="paula" creationdate="20230526T123838Z">
+        <seg>Fue en París donde Van Gogh conoció a muchos otros pintores franceses como Henri Matisse y Édouard Manet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was one of his few consolations.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T140753Z" creationid="HP" creationdate="20230519T140753Z">
@@ -794,6 +866,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T162351Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
         <seg>Más tarde, se hicieron íntimos el uno del otro porque podían relacionar su deseo compartido de dar una nueva forma a sus imaginaciones como artistas que luchaban por ganarse un nombre en la más confusa forma de arte impresionista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lautrec and Van Gogh later met again at Julien Pere Tanguy’s paint store to view Paul Cezanne’s painting.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T123628Z" creationid="paula" creationdate="20230526T123628Z">
+        <seg>Lautrec y Van Gogh volvieron a encontrarse más tarde en la tienda de pinturas de Julien Pere Tanguy para ver la pintura de Paul Cézanne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lautrec was born in 1864 at Albi.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T123546Z" creationid="paula" creationdate="20230526T123546Z">
+        <seg>Lautrec nació en 1864 en Albi.</seg>
       </tuv>
     </tu>
     <tu>
