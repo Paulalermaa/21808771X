@@ -2143,6 +2143,22 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SOAR Analysis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133659Z" creationid="HP" creationdate="20230526T133637Z">
+        <seg>Análisis SOAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SWOT Analysis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133631Z" creationid="HP" creationdate="20230526T133631Z">
+        <seg>Análisis DAFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T132400Z" creationid="HP" creationdate="20230526T132400Z">
@@ -3068,6 +3084,14 @@ Generador de portadas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130642Z" creationid="paula" creationdate="20230526T130642Z">
         <seg>Número IVA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VRIO Analysis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133652Z" creationid="HP" creationdate="20230526T133652Z">
+        <seg>Análisis VRIO</seg>
       </tuv>
     </tu>
     <tu>
