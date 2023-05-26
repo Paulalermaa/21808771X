@@ -1936,8 +1936,8 @@
       <tuv lang="en">
         <seg>Read My Paper</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="paula" changedate="20230526T131856Z" creationid="paula" creationdate="20230526T131856Z">
-        <seg>Lea mi artículo</seg>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132803Z" creationid="paula" creationdate="20230526T131856Z">
+        <seg>Read my article</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rephraser</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132710Z" creationid="HP" creationdate="20230526T132710Z">
+        <seg>Reformulador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Request the removal</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131200Z" creationid="paula" creationdate="20230526T131200Z">
@@ -1998,10 +2006,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Research Hypothesis Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132612Z" creationid="HP" creationdate="20230526T132612Z">
+        <seg>Generador de hipótesis de investigación&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Research Objectives Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132745Z" creationid="HP" creationdate="20230526T132745Z">
+        <seg>Generador de objetivos de investigación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Research Problem Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132653Z" creationid="HP" creationdate="20230526T132653Z">
+        <seg>Generador de problemas de investigación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Research Purpose Statement Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132729Z" creationid="HP" creationdate="20230526T132729Z">
+        <seg>Generador de declaraciones de propósitos de investigación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Research Question Maker</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132554Z" creationid="HP" creationdate="20230526T132554Z">
+        <seg>Formulador de preguntas de investigación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Research Title Generator</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131937Z" creationid="paula" creationdate="20230526T131937Z">
         <seg>Generador de títulos de investigación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reworder</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132630Z" creationid="HP" creationdate="20230526T132630Z">
+        <seg>Reordenar</seg>
       </tuv>
     </tu>
     <tu>
