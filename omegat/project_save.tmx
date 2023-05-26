@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/s3&gt; according to your instructions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135552Z" creationid="HP" creationdate="20230526T135552Z">
+        <seg>&lt;/s3&gt; según sus instrucciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt; &lt;s1&gt; &lt;u2&gt;&lt;/u2&gt; &lt;/s1&gt; &lt;s3&gt;Print&lt;/s3&gt; &lt;/a0&gt; &lt;a4&gt; &lt;s5&gt; &lt;u6&gt;&lt;/u6&gt; &lt;/s5&gt; &lt;s7&gt;Сite this&lt;/s7&gt; &lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T134915Z" creationid="HP" creationdate="20230526T134847Z">
@@ -2015,6 +2023,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One of the versions is depression: it is known that (cutting oneself) is a sign of depression (Eiss, 2010, p.13).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135712Z" creationid="HP" creationdate="20230526T135712Z">
+        <seg>Una de las versiones es la depresión: se sabe que (cortarse) es un signo de depresión (Eiss, 2010, p.13).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One of them was Bipolar disorder formerly referred to as manic depression.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230526T125929Z" creationid="dinag" creationdate="20230526T125929Z">
@@ -2171,6 +2187,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230526T132642Z" creationid="dinag" creationdate="20230526T131903Z">
         <seg>Físicamente, se recuperó con rapidez y fue llevado a casa, pero seguía sufriendo alucinaciones de haber sido envenenado y tenía otros síntomas de enfermedad mental (Greenberg y Jordan, 2001).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Picture</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135735Z" creationid="HP" creationdate="20230526T135735Z">
+        <seg>Imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2567,6 +2591,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sunflowers were a special symbol for him; in Dutch literature, these flowers symbolize the love of God.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135815Z" creationid="HP" creationdate="20230526T135815Z">
+        <seg>Los girasoles eran un símbolo especial para él; en la literatura holandesa, estas flores simbolizan el amor de Dios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sunstroke</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230511T161012Z" creationid="HP" creationdate="20230511T161012Z">
@@ -2691,6 +2723,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T141646Z" creationid="HP" creationdate="20230519T141646Z">
         <seg>El continuo conflicto político los conflictos políticos (por ejemplo, la guerra franco-prusiana) se sumaron a la presión que experimentó van Gogh a lo largo de su vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The famous “Sunflowers” (1889), one of Van Gogh’s sunflower series, was created after Gauguin took his leave.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135748Z" creationid="HP" creationdate="20230526T135748Z">
+        <seg>Los famosos "Girasoles" (1889), una de las series de girasoles de Van Gogh, fue creada después de que Gauguin se despidiera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2823,6 +2863,22 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The other widespread version is bipolar disorder, especially given the fact that Van Gogh committed suicide (Eiss, 2010, p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135728Z" creationid="HP" creationdate="20230526T135728Z">
+        <seg>La otra versión muy extendida es el trastorno bipolar, sobre todo teniendo en cuenta que Van Gogh se suicidó (Eiss, 2010, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The painting is a perfect material to study Van Gogh’s mental condition of that period.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135801Z" creationid="HP" creationdate="20230526T135801Z">
+        <seg>El cuadro es un material perfecto para estudiar el estado mental de Van Gogh en aquella época.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The picture under consideration is the “Peasant Sitting by the Fireplace (‘Worn Out’)”, drawn in September 1881.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T141005Z" creationid="HP" creationdate="20230519T141005Z">
@@ -2843,6 +2899,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T154336Z" creationid="maria" creationdate="20230511T154336Z">
         <seg>El problema de la conexión entre el talento artístico de Van Gogh y su enfermedad mental está aún sin resolver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The problem of the connection between the painter’s mental state and his works is still a topic of continuous research.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135658Z" creationid="HP" creationdate="20230526T135658Z">
+        <seg>El problema de la conexión entre el estado mental del pintor y sus obras sigue siendo un tema de investigación continua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3844,6 +3908,14 @@ Generador de portadas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131134Z" creationid="paula" creationdate="20230526T131134Z">
         <seg>Puede utilizarlo para redactar su propia tarea, pero debe hacer referencia a él correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>academic paper&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135539Z" creationid="HP" creationdate="20230526T135539Z">
+        <seg>trabajo académico&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
