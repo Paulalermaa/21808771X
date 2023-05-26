@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>As mentioned in the book “The letters of Vincent Van Gogh” (Van Gogh &amp; Leeuw, 1997), Vincent Van Gogh himself reflected on his abrupt withdrawal from school, as he wrote to his older brother Theo that “My youth was gloomy and cold and sterile” (Naifeh &amp; Smith, 2011, p.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230526T125707Z" creationid="dinag" creationdate="20230526T125707Z">
-        <seg>Como se menciona en el libro "Las cartas de Vincent Van Gogh" (Van Gogh &amp; Leeuw, 1997), el propio Vincent Van Gogh reflexionó sobre su abrupto abandono de la escuela, ya que escribió a su hermano mayor Theo que "Mi juventud fue sombría y fría y estéril" (Naifeh &amp; Smith, 2011, p.</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132738Z" creationid="dinag" creationdate="20230526T125707Z">
+        <seg>Como se menciona en el libro "Las cartas de Vincent Van Gogh" (Van Gogh y Leeuw, 1997), el propio Vincent Van Gogh reflexionó sobre su abrupto abandono de la escuela, ya que escribió a su hermano mayor Theo que "Mi juventud fue sombría y fría y estéril" (Naifeh &amp; Smith, 2011, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +330,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131913Z" creationid="paula" creationdate="20230526T131300Z">
         <seg>Compruebe el precio de su artículo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Child Vincent Van Gogh.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132904Z" creationid="dinag" creationdate="20230526T132904Z">
+        <seg>Vincent Van Gogh cuando era pequeño.</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +576,8 @@
       <tuv lang="en">
         <seg>Even though he was somber, his paintings reflected hope and happiness (Naifeh &amp; Smith, 2011).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130250Z" creationid="dinag" creationdate="20230526T130250Z">
-        <seg>Aunque era sombrío, sus cuadros reflejaban esperanza y felicidad (Naifeh &amp; Smith, 2011).</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132723Z" creationid="dinag" creationdate="20230526T130250Z">
+        <seg>Aunque era sombrío, sus cuadros reflejaban esperanza y felicidad (Naifeh y Smith, 2011).</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +592,8 @@
       <tuv lang="en">
         <seg>Even when it was ridiculed, it rendered a new definition of painting and gave him an iconic status much later (Naifeh &amp; Smith, 2011).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130331Z" creationid="dinag" creationdate="20230526T130331Z">
-        <seg>Incluso cuando fue ridiculizado, dio una nueva definición de la pintura y le otorgó un estatus icónico mucho tiempo después (Naifeh &amp; Smith, 2011).</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132718Z" creationid="dinag" creationdate="20230526T130331Z">
+        <seg>Incluso cuando fue ridiculizado, dio una nueva definición de la pintura y le otorgó un estatus icónico mucho tiempo después (Naifeh y Smith, 2011).</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,8 +752,8 @@
       <tuv lang="en">
         <seg>Gauguin loved Vincent Van Gogh’s sunflower painting and Gauguin bartered for this with his best work &lt;e0&gt;By the Shore of the Lake&lt;/e0&gt;, painted in Martinique which vouched for his adoration for the work (Jansen &amp; Van Gogh, 2007).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131558Z" creationid="dinag" creationdate="20230526T131558Z">
-        <seg>A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo canjeó por su mejor obra &lt;e0&gt;A la orilla del lago&lt;/e0&gt;, pintada en Martinica, que daba fe de su adoración por la obra (Jansen &amp; Van Gogh, 2007).</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132700Z" creationid="dinag" creationdate="20230526T131558Z">
+        <seg>A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo canjeó por su mejor obra &lt;e0&gt;A la orilla del lago&lt;/e0&gt;, pintada en Martinica, que daba fe de su adoración por la obra (Jansen y Van Gogh, 2007).</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,8 +888,8 @@
       <tuv lang="en">
         <seg>He suffered from hallucinations for many months although he had some clear times which he used to draw and work (Greenberg &amp; Jordan, 2001)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132221Z" creationid="dinag" creationdate="20230526T132221Z">
-        <seg>Sufrió alucinaciones durante muchos meses aunque tuvo algunos momentos de claridad que aprovechó para dibujar y trabajar (Greenberg &amp; Jordan, 2001)</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132631Z" creationid="dinag" creationdate="20230526T132221Z">
+        <seg>Sufrió alucinaciones durante muchos meses aunque tuvo algunos momentos de claridad que aprovechó para dibujar y trabajar (Greenberg y Jordan, 2001)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1016,8 +1024,16 @@
       <tuv lang="en">
         <seg>His massive collection of over 800 letters was attributed to a condition called Hypergraphia, a disorder linked to mania and epilepsy, where a person needlessly writes continuously (Naifeh &amp; Smith, 2011).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130039Z" creationid="dinag" creationdate="20230526T130039Z">
-        <seg>Su enorme colección de más de 800 cartas se atribuyó a una afección llamada hipergrafía, un trastorno vinculado a la manía y la epilepsia, en el que una persona escribe sin necesidad continuamente (Naifeh &amp; Smith, 2011).</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132732Z" creationid="dinag" creationdate="20230526T130039Z">
+        <seg>Su enorme colección de más de 800 cartas se atribuyó a una afección llamada hipergrafía, un trastorno vinculado a la manía y la epilepsia, en el que una persona escribe sin necesidad continuamente (Naifeh y Smith, 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>His paintings were exhibited in Paris and Brussels.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132624Z" creationid="dinag" creationdate="20230526T132624Z">
+        <seg>Sus cuadros se expusieron en París y Bruselas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,8 +1896,8 @@
       <tuv lang="en">
         <seg>Physically, he recovered speedily and was taken home, but still suffered from hallucinations of being poisoned, and had other symptoms of mental illness (Greenberg &amp; Jordan, 2001).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131903Z" creationid="dinag" creationdate="20230526T131903Z">
-        <seg>Físicamente, se recuperó con rapidez y fue llevado a casa, pero seguía sufriendo alucinaciones de haber sido envenenado y tenía otros síntomas de enfermedad mental (Greenberg &amp; Jordan, 2001).</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132642Z" creationid="dinag" creationdate="20230526T131903Z">
+        <seg>Físicamente, se recuperó con rapidez y fue llevado a casa, pero seguía sufriendo alucinaciones de haber sido envenenado y tenía otros síntomas de enfermedad mental (Greenberg y Jordan, 2001).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2398,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The map of the region of the Netherlands where Van Gogh grew up.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132824Z" creationid="dinag" creationdate="20230526T132824Z">
+        <seg>El mapa de la region de los Países Bajos donde Van Gogh creció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The method can help to gain information about the origins, evaluate different theories dealing with the development or deepen in the life of well-known people.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T133551Z" creationid="HP" creationdate="20230519T133551Z">
@@ -2568,8 +2592,8 @@
       <tuv lang="en">
         <seg>Their collaboration ended dramatically around Christmas Eve, 1888, followed by a series of violent incidents (Greenberg &amp; Jordan, 2001)</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230511T211709Z" creationid="dinag" creationdate="20230511T211709Z">
-        <seg>Su colaboración terminó de forma dramática alrededor de la Nochebuena de 1888, seguida de una serie de incidentes violentos (Greenberg &amp; Jordan, 2001)</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132837Z" creationid="dinag" creationdate="20230511T211709Z">
+        <seg>Su colaboración terminó de forma dramática alrededor de la Nochebuena de 1888, seguida de una serie de incidentes violentos (Greenberg y Jordan, 2001)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2592,8 +2616,8 @@
       <tuv lang="en">
         <seg>Theo tried to understand the deep-seated melancholy that possessed Vincent which was revealed in the book of their letters to each other, &lt;e0&gt;Dear Theo: The Autobiography of Vincent Van Gogh&lt;/e0&gt; (Van Gogh &amp; Stone, 1995).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130621Z" creationid="dinag" creationdate="20230526T130621Z">
-        <seg>Theo trató de comprender la profunda melancolía que poseía Vincent, revelada en el libro de cartas que se escribieron el uno al otro, &lt;e0&gt;Querido Theo: La autobiografía de Vincent Van Gogh&lt;/e0&gt; (Van Gogh &amp; Stone, 1995).</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132708Z" creationid="dinag" creationdate="20230526T130621Z">
+        <seg>Theo trató de comprender la profunda melancolía que poseía Vincent, revelada en el libro de cartas que se escribieron el uno al otro, &lt;e0&gt;Querido Theo: La autobiografía de Vincent Van Gogh&lt;/e0&gt; (Van Gogh y Stone, 1995).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2824,8 +2848,8 @@
       <tuv lang="en">
         <seg>Though he resented leaving the pleasant ambiance of home, it was only when he went to a new middle school, Willem II College in Tilburg, that he encountered Huysmans, a renowned artist from Paris who later helped him to cultivate an interest in art (Naifeh &amp; Smith, 2011).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230526T125049Z" creationid="dinag" creationdate="20230526T125049Z">
-        <seg>Aunque le molestaba abandonar el agradable ambiente de su hogar, no fue hasta que ingresó en un nuevo centro de enseñanza media, el Colegio Willem II de Tilburg, cuando conoció a Huysmans, un renombrado artista de París que más tarde le ayudó a cultivar su interés por el arte (Naifeh &amp; Smith, 2011).</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132749Z" creationid="dinag" creationdate="20230526T125049Z">
+        <seg>Aunque le molestaba abandonar el agradable ambiente de su hogar, no fue hasta que ingresó en un nuevo centro de enseñanza media, el Colegio Willem II de Tilburg, cuando conoció a Huysmans, un renombrado artista de París que más tarde le ayudó a cultivar su interés por el arte (Naifeh y Smith, 2011).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3120,8 +3144,8 @@
       <tuv lang="en">
         <seg>Van Gogh’s most striking works were created in less than three years but his style was individual and inimitable and that made him stand out as a genius.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132525Z" creationid="dinag" creationdate="20230526T132525Z">
-        <seg>Las obras más llamativas de Van Gogh fueron creadas en menos de tres años, pero su estilo era individual e inimitable y eso le hizo destacar como genio. Sus cuadros se expusieron en París y Bruselas.</seg>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T132607Z" creationid="dinag" creationdate="20230526T132525Z">
+        <seg>Las obras más llamativas de Van Gogh fueron creadas en menos de tres años, pero su estilo era individual e inimitable y eso le hizo destacar como genio. </seg>
       </tuv>
     </tu>
     <tu>
