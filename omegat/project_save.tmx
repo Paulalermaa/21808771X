@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abstract</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T133314Z" creationid="dinag" creationdate="20230526T133314Z">
+        <seg>Resumen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Address:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130531Z" creationid="paula" creationdate="20230526T130531Z">
@@ -651,6 +659,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T204117Z" creationid="dinag" creationdate="20230511T201452Z">
         <seg>La figura 1 es una fotografía de Vincent Van Gogh cuando era pequeño, Vincent Van Gogh nació en Groot-Zundert, Países Bajos, el 30 de marzo de 1853.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure 2 is the map of the region of the Netherlands where Van Gogh grew up.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T133705Z" creationid="dinag" creationdate="20230526T133705Z">
+        <seg>La figura 2 es el mapa de la region de los Países Bajos donde Van Gogh creció.</seg>
       </tuv>
     </tu>
     <tu>
