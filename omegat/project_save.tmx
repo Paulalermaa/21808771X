@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Vincent van Gogh: Everything you need to know&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230526T154313Z" creationid="maria" creationdate="20230526T154313Z">
+        <seg>&lt;e0&gt;Vincent van Gogh: Todo lo que necesitas saber&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;304&lt;/s0&gt; qualified specialists online</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T135000Z" creationid="HP" creationdate="20230526T135000Z">
