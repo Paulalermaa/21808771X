@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Address:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T130531Z" creationid="paula" creationdate="20230526T130531Z">
+        <seg>Dirección:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After Gauguin finally left, Van Gogh cut off a part of his ear.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T155121Z" creationid="maria" creationdate="20230511T155121Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T123353Z" creationid="paula" creationdate="20230526T123353Z">
         <seg>Al principio, la obra de Cézanne no gustó al público ni a muchos de sus colegas pintores porque estaba influida por el estilo impresionista de Pissarro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Company:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T130553Z" creationid="paula" creationdate="20230526T130553Z">
+        <seg>Compañía:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Privacy &amp; Cookies Policy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T130735Z" creationid="paula" creationdate="20230526T130735Z">
+        <seg>Privacidad &amp; Política de Cookies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prussia was grasping power in the southern provinces of Germany and France wanted compensation in Belgium to maintain the balance of power in Europe.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
@@ -1586,6 +1610,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T133450Z" creationid="HP" creationdate="20230519T133450Z">
         <seg>Se pueden utilizar métodos de investigación cuantitativos y cualitativos para proporcionar los hallazgos necesarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reference List</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T130935Z" creationid="paula" creationdate="20230526T130935Z">
+        <seg>Bibliografía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Registration Number:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T130616Z" creationid="paula" creationdate="20230526T130616Z">
+        <seg>Número de registro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,6 +1746,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T125326Z" creationid="paula" creationdate="20230526T125326Z">
         <seg>Epilepsia del lóbulo temporal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms and Conditions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T130703Z" creationid="paula" creationdate="20230526T130703Z">
+        <seg>Términos y condiciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -2338,6 +2386,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T134616Z" creationid="HP" creationdate="20230519T134616Z">
         <seg>Para comprender qué es mejor elegir, uno puede obtener información de antecedentes basada en fuentes secundarias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VAT Number:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T130642Z" creationid="paula" creationdate="20230526T130642Z">
+        <seg>Número IVA:</seg>
       </tuv>
     </tu>
     <tu>
