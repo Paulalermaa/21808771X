@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Careers</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131514Z" creationid="paula" creationdate="20230526T131514Z">
+        <seg>Carreras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Causes of Depression</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T124531Z" creationid="paula" creationdate="20230526T124531Z">
@@ -294,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the price of your paper</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131300Z" creationid="paula" creationdate="20230526T131300Z">
+        <seg>Compruebe el precio de su papel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Company:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130553Z" creationid="paula" creationdate="20230526T130553Z">
@@ -302,10 +318,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131454Z" creationid="paula" creationdate="20230526T131454Z">
+        <seg>Contacto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contact:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130031Z" creationid="paula" creationdate="20230526T130031Z">
         <seg>Contacto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cookies Policy</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131318Z" creationid="paula" creationdate="20230526T131318Z">
+        <seg>Política de Cookies</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +378,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T134740Z" creationid="HP" creationdate="20230519T134740Z">
         <seg>Desarrollar una hipótesis o preguntas para llevar a cabo la investigación. Esta </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Discounts</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131534Z" creationid="paula" creationdate="20230526T131534Z">
+        <seg>Descuentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1562,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T124711Z" creationid="paula" creationdate="20230526T124711Z">
         <seg>Otros acontecimientos traumatizantes son los conflictos y las pérdidas, la falta de apoyo estable de los allegados, otros problemas personales, el alcohol y el abuso de sustancias (Raynor, 2013).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Our site uses cookies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131339Z" creationid="paula" creationdate="20230526T131339Z">
+        <seg>Nuestra web utiliza cookies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2746,6 +2794,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T140325Z" creationid="HP" creationdate="20230519T140325Z">
         <seg>Analizar desgastado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writing Service</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131445Z" creationid="paula" creationdate="20230526T131445Z">
+        <seg>Servicio de escritura</seg>
       </tuv>
     </tu>
     <tu>
