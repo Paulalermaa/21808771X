@@ -855,6 +855,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He died in France on July 29&lt;s0&gt;th&lt;/s0&gt;, 1853, at the age of 37.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T133103Z" creationid="dinag" creationdate="20230526T133103Z">
+        <seg>Murió en Francia, el 29 de Julio de 1853, a la edad de 37 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He drew early as a child and ended up as a famous artist, after struggles with mental illness, which may have caused his death (Naifeh &amp; Smith, 2011).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T203227Z" creationid="dinag" creationdate="20230511T203013Z">
@@ -2635,6 +2643,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T124321Z" creationid="paula" creationdate="20230526T124321Z">
         <seg>La obra de Jean Courbet era muy apreciada por Van Gogh y Henri De Toulouse Lautrec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The works of this well-known Dutch painter are notable for the emotion, beauty, and color that influenced 20&lt;s0&gt;th&lt;/s0&gt;-century art.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T133257Z" creationid="dinag" creationdate="20230526T133257Z">
+        <seg>La obra de este bien conocido pintor neerlandés se destaca por la emoción, belleza y color que influenció el are del siglo XX.</seg>
       </tuv>
     </tu>
     <tu>
