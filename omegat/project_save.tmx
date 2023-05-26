@@ -2078,6 +2078,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oct 7th, 2020</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T142501Z" creationid="paula" creationdate="20230526T142501Z">
+        <seg>7 de octubre de 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oct 8th, 2020</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T142431Z" creationid="paula" creationdate="20230526T142431Z">
+        <seg>8 de octubre de 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course, it should be based on authoritative information and proved with the help of a decent examination.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T133357Z" creationid="HP" creationdate="20230519T133357Z">
@@ -2192,8 +2208,8 @@
       <tuv lang="en">
         <seg>Our experts can deliver a &lt;s0&gt;Van Gogh’s Art, Gogen’s Influence and Mental Illness essay&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T135048Z" creationid="HP" creationdate="20230526T135048Z">
-        <seg>&lt;/s0&gt;Nuestros expertos pueden entregar un ensayo El arte de Van Gogh, la influencia de Gogen y la enfermedad mental.&lt;br1&gt;</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T142603Z" creationid="HP" creationdate="20230526T135048Z">
+        <seg>&lt;/s0&gt;Nuestros expertos pueden entregar un ensayo El arte de Van Gogh, la influencia de Gogen y la enfermedad mental&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3609,16 +3625,24 @@ Generador de portadas</seg>
       <tuv lang="en">
         <seg>Updated: Dec 4th, 2020</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T134714Z" creationid="HP" creationdate="20230526T134714Z">
-        <seg>actualizado: Dec 4th, 2020</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T142530Z" creationid="HP" creationdate="20230526T134714Z">
+        <seg>Actualizado: 4 de diciembre de 2020</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Updated: Dec 5th, 2020</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T134634Z" creationid="HP" creationdate="20230526T134634Z">
-        <seg>actualizado: Dec 5th, 2020</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T142517Z" creationid="HP" creationdate="20230526T134634Z">
+        <seg>Actualizado: 5 de dieciembre de 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updated: Dec 6th, 2020</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T142449Z" creationid="paula" creationdate="20230526T142449Z">
+        <seg>Actualizado: 6 de diciembre de 2020</seg>
       </tuv>
     </tu>
     <tu>
