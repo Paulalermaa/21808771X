@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>3 hours!</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134322Z" creationid="HP" creationdate="20230526T134322Z">
+        <seg>3 horas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>7Ps Template</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T133853Z" creationid="HP" creationdate="20230526T133853Z">
@@ -398,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clock image</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134337Z" creationid="HP" creationdate="20230526T134337Z">
+        <seg>Imagen del reloj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close and clear the search form</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T132420Z" creationid="HP" creationdate="20230526T132420Z">
@@ -451,6 +467,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131318Z" creationid="paula" creationdate="20230526T131318Z">
         <seg>Política de Cookies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Counseling Depression: Ethical Aspects</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134616Z" creationid="HP" creationdate="20230526T134616Z">
+        <seg>Asesoramiento sobre la depresión: Aspectos éticos</seg>
       </tuv>
     </tu>
     <tu>
@@ -603,6 +627,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T123909Z" creationid="paula" creationdate="20230526T123909Z">
         <seg>La obra de Édouard Manet mostraba una conexión entre el realismo y el postimpresionismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Emotional Breakdown and Discharge at Work</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134507Z" creationid="HP" creationdate="20230526T134507Z">
+        <seg>Ruptura emocional y despido en el trabajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1695,6 +1727,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Learn more</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134316Z" creationid="HP" creationdate="20230526T134316Z">
+        <seg>Más información</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Life of Vincent Van Gogh (1853-1889)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T211739Z" creationid="dinag" creationdate="20230511T211739Z">
@@ -2015,6 +2055,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Personal Development During Middle Adulthood</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134557Z" creationid="HP" creationdate="20230526T134557Z">
+        <seg>Desarrollo personal en la mediana edad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Personal Statement Generator</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T133039Z" creationid="HP" creationdate="20230526T133039Z">
@@ -2071,6 +2119,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Psychological Attitudes, Their Nature and Origins</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134533Z" creationid="HP" creationdate="20230526T134533Z">
+        <seg>Actitudes psicológicas, su naturaleza y sus orígenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Psychological and esthetic analysis</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T141859Z" creationid="HP" creationdate="20230519T141859Z">
@@ -2107,6 +2163,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130616Z" creationid="paula" creationdate="20230526T130616Z">
         <seg>Número de registro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Related Free Essays</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134430Z" creationid="HP" creationdate="20230526T134430Z">
+        <seg>Ensayos libres relacionados</seg>
       </tuv>
     </tu>
     <tu>
@@ -2275,6 +2339,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130210Z" creationid="paula" creationdate="20230526T130210Z">
         <seg>Envía un correo electrónico a support@studycorgi.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sensory Perception and Brain Interpretation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134445Z" creationid="HP" creationdate="20230526T134445Z">
+        <seg>Percepción sensorial e interpretación cerebral</seg>
       </tuv>
     </tu>
     <tu>
@@ -3524,6 +3596,14 @@ Generador de portadas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T132854Z" creationid="HP" creationdate="20230526T132854Z">
         <seg>Generador de declaraciones de visión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We’ll write a &lt;s0&gt;&lt;s1&gt;100% customized&lt;/s1&gt; paper&lt;/s0&gt; this fast!</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134415Z" creationid="HP" creationdate="20230526T134415Z">
+        <seg>¡Escribiremos un papel 100% personalizado así de rápido!&lt;s0&gt;&lt;s1&gt;&lt;/s1&gt;&lt;/s0&gt; </seg>
       </tuv>
     </tu>
     <tu>
