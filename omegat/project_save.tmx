@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Van Gogh &amp; Powell, 2003; Poulet &amp; Arts, 1979).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T182236Z" creationid="dinag" creationdate="20230526T182236Z">
+        <seg>(Van Gogh y Powell, 2003; Poulet y Arts, 1979).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3 hours!</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T134322Z" creationid="HP" creationdate="20230526T134322Z">
