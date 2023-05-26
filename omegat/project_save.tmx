@@ -40,8 +40,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt; &lt;s1&gt; &lt;u2&gt;&lt;/u2&gt; &lt;/s1&gt; &lt;s3&gt;Print&lt;/s3&gt; &lt;/a0&gt; &lt;a4&gt; &lt;s5&gt; &lt;u6&gt;&lt;/u6&gt; &lt;/s5&gt; &lt;s7&gt;Сite this&lt;/s7&gt; &lt;/a4&gt;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T134847Z" creationid="HP" creationdate="20230526T134847Z">
-        <seg>&lt;a0&gt; &lt;s1&gt; &lt;u2&gt;&lt;/u2&gt; &lt;/s1&gt; &lt;s3&gt;Print&lt;/s3&gt; &lt;/a0&gt; &lt;a4&gt; &lt;s5&gt; &lt;u6&gt;&lt;/u6&gt; &lt;/s5&gt; &lt;s7&gt;Сite esto&lt;/s7&gt; &lt;/a4&gt;</seg>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134915Z" creationid="HP" creationdate="20230526T134847Z">
+        <seg>&lt;a0&gt; &lt;s1&gt; &lt;u2&gt;&lt;/u2&gt; &lt;/s1&gt; &lt;s3&gt;imprimir&lt;/s3&gt; &lt;/a0&gt; &lt;a4&gt; &lt;s5&gt; &lt;u6&gt;&lt;/u6&gt; &lt;/s5&gt; &lt;s7&gt;Сite esto&lt;/s7&gt; &lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +58,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T133601Z" creationid="HP" creationdate="20230526T133601Z">
         <seg>&lt;a0&gt;Máquina de Сitación&lt;/a0&gt; &lt;a1&gt;Conclusión Generador&lt;/a1&gt; &lt;a2&gt;Formulador de preguntas de investigación&lt;/a2&gt; &lt;a3&gt;&lt;/a3&gt; &lt;a4&gt;&lt;/a4&gt; &lt;a5&gt;&lt;/a5&gt; &lt;a6&gt;&lt;/a6&gt; &lt;a7&gt;&lt;/a7&gt; &lt;a8&gt;&lt;/a8&gt; &lt;a9&gt;&lt;/a9&gt; &lt;a10&gt;&lt;/a10&gt; &lt;a11&gt;&lt;/a11&gt; &lt;a12&gt; &lt;/a12&gt; &lt;a13&gt;&lt;/a13&gt; &lt;a14&gt;&lt;/a14&gt; &lt;a15&gt;&lt;/a15&gt; &lt;a16&gt;&lt;/a16&gt; &lt;a17&gt;&lt;/a17&gt; &lt;a18&gt;&lt;/a18&gt; &lt;a19&gt;&lt;/a19&gt; &lt;a20&gt;&lt;/a20&gt;   Generador de títulos Generador de enunciados Generador de páginas de título Formulador de oraciones temáticas Herramienta de detección de ChatGPT Generador de oraciones finales Generador de oraciones gancho Generador de enunciados personales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;304&lt;/s0&gt; qualified specialists online</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135000Z" creationid="HP" creationdate="20230526T135000Z">
+        <seg>&lt;s0&gt;304&lt;/s0&gt; especialistas cualificados en línea</seg>
       </tuv>
     </tu>
     <tu>
@@ -1383,6 +1391,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Illness</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134934Z" creationid="HP" creationdate="20230526T134934Z">
+        <seg>Enfermedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Important events will be highlighted and considered as the steps of his development as a person and painter.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T135812Z" creationid="HP" creationdate="20230519T135812Z">
@@ -1767,6 +1783,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Let`s start</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135126Z" creationid="HP" creationdate="20230526T135126Z">
+        <seg>Empecemos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Life of Vincent Van Gogh (1853-1889)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T211739Z" creationid="dinag" creationdate="20230511T211739Z">
@@ -2019,6 +2043,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T124711Z" creationid="paula" creationdate="20230526T124711Z">
         <seg>Otros acontecimientos traumatizantes son los conflictos y las pérdidas, la falta de apoyo estable de los allegados, otros problemas personales, el alcohol y el abuso de sustancias (Raynor, 2013).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Our experts can deliver a &lt;s0&gt;Van Gogh’s Art, Gogen’s Influence and Mental Illness essay&lt;/s0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135048Z" creationid="HP" creationdate="20230526T135048Z">
+        <seg>&lt;/s0&gt;Nuestros expertos pueden entregar un ensayo El arte de Van Gogh, la influencia de Gogen y la enfermedad mental.&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3776,6 +3808,22 @@ Generador de portadas</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>as little as &lt;s4&gt;3 hours&lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135153Z" creationid="HP" creationdate="20230526T135153Z">
+        <seg>tan poco como &lt;s4&gt;3 horas&lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>done in &lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135222Z" creationid="HP" creationdate="20230526T135222Z">
+        <seg>hecho en &lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>good But, importantly, having failed in all the careers that the artist tried to pursue (namely, teaching, bookselling, and preaching) worsened van Gogh’s relationships with his family (Butterfield, 2011; Smith &amp; Naifeh, 2011).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T141703Z" creationid="HP" creationdate="20230519T141703Z">
@@ -3804,6 +3852,14 @@ Generador de portadas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T132256Z" creationid="HP" creationdate="20230526T132256Z">
         <seg>sumario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tailored to your instructions &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T135016Z" creationid="HP" creationdate="20230526T135016Z">
+        <seg>adaptados a sus instrucciones &lt;br2&gt;</seg>
       </tuv>
     </tu>
     <tu>
