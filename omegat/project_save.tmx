@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T132304Z" creationid="paula" creationdate="20230526T132304Z">
+        <seg>Acerca de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Address:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130531Z" creationid="paula" creationdate="20230526T130531Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230526T130331Z" creationid="dinag" creationdate="20230526T130331Z">
         <seg>Incluso cuando fue ridiculizado, dio una nueva definición de la pintura y le otorgó un estatus icónico mucho tiempo después (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FAQ</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T132244Z" creationid="paula" creationdate="20230526T132244Z">
+        <seg>Preguntas frecuentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1146,6 +1162,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T134536Z" creationid="HP" creationdate="20230519T134536Z">
         <seg>Identificar el fenómeno de estudio. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you keep using the site, you accept our &lt;a0&gt;Cookies Policy&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T132222Z" creationid="paula" creationdate="20230526T132222Z">
+        <seg>Si sigues utilizando el sitio, aceptas nuestra Política de Cookies</seg>
       </tuv>
     </tu>
     <tu>
