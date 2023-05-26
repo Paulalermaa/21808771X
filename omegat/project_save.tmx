@@ -918,6 +918,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paul Cezanne (1839-1906)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T120936Z" creationid="paula" creationdate="20230526T120936Z">
+        <seg>Paul Cézanne (1839-1906)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paul Cezanne’s work laid the foundation for Post-Impressionist painting in France.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T120954Z" creationid="paula" creationdate="20230526T120954Z">
+        <seg>La obra de Paul Cézanne sentó las bases de la pintura postimpresionista en Francia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Peasant Sitting by the Fireplace.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T141301Z" creationid="HP" creationdate="20230519T141301Z">
