@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>A closer look at it will reveal the impact of Gaugin and other Impressionists of the time such as Monet – the colors and the blurry and flowing nature of the objects, the bright light, and very short brush strokes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131402Z" creationid="dinag" creationdate="20230526T131402Z">
+        <seg>Una mirada más atenta revelará el impacto de Gaugin y otros impresionistas de la época, como Monet: los colores y la naturaleza borrosa y fluida de los objetos, la luz brillante y las pinceladas muy cortas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A good example is the painting called “The Potato Eaters” which was created in 1885 and brought much recognition to the artist.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230526T130151Z" creationid="dinag" creationdate="20230526T130151Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130531Z" creationid="paula" creationdate="20230526T130531Z">
         <seg>Dirección:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After Gauguin and Van Gogh agreed to work together, they traveled to the south of France, and bought the yellow house in Arles in early 1888, in the Provence section of France, and began working on the house (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131655Z" creationid="dinag" creationdate="20230526T131655Z">
+        <seg>Después de que Gauguin y Van Gogh acordaron trabajar juntos, viajaron al sur de Francia y compraron la casa amarilla de Arlés a principios de 1888, en la Provenza francesa, y empezaron a trabajar en ella (Naifeh y Smith, 2011). </seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Figure 4 is a photograph of Paul Gauguin Vincent Van Gogh was highly influenced by Gauguin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130845Z" creationid="dinag" creationdate="20230526T130845Z">
+        <seg>La figura 4 es una fotografía de Paul Gauguin Vincent Van Gogh estuvo muy influido por Gauguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 5 is a timeline showing the important events during Vincent Van Gogh’s life along with important events that were happening in the world at the same time</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T115606Z" creationid="paula" creationdate="20230526T115606Z">
@@ -630,6 +654,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gauguin loved Vincent Van Gogh’s sunflower painting and Gauguin bartered for this with his best work &lt;e0&gt;By the Shore of the Lake&lt;/e0&gt;, painted in Martinique which vouched for his adoration for the work (Jansen &amp; Van Gogh, 2007).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131558Z" creationid="dinag" creationdate="20230526T131558Z">
+        <seg>A Gauguin le encantaba el cuadro del girasol de Vincent Van Gogh y Gauguin lo canjeó por su mejor obra &lt;e0&gt;A la orilla del lago&lt;/e0&gt;, pintada en Martinica, que daba fe de su adoración por la obra (Jansen &amp; Van Gogh, 2007).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gauguin was struck by one painting in an exhibition, Van Gogh’s &lt;e0&gt;Two Sunflowers,&lt;/e0&gt; which is a beautiful blend of colors and techniques and an example of Impressionist painting.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131332Z" creationid="dinag" creationdate="20230526T131332Z">
+        <seg>Gauguin quedó impresionado por un cuadro de una exposición, &lt;e0&gt; Los dos girasoles cortados de Van Gogh,&lt;/e0&gt; que es una hermosa mezcla de colores y técnicas y un ejemplo de la pintura impresionista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to bonniebutterfield.com website</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130957Z" creationid="paula" creationdate="20230526T130957Z">
@@ -642,6 +682,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230507T192018Z" creationid="paula" creationdate="20230507T192018Z">
         <seg>Debido a que creció bajo las condiciones de los conflictos políticos en desarrollo, Van Gogh se encontraba bajo una presión constante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He also painted things he loved both for their natural beauty and their symbolic significance (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131455Z" creationid="dinag" creationdate="20230526T131455Z">
+        <seg>También pintó cosas que le gustaban tanto por su belleza natural como por su significado simbólico (Naifeh y Smith, 2011).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the book, it is explained how Theo was so close to Vincent Van Gogh that Theo himself died soon after Vincent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130652Z" creationid="dinag" creationdate="20230526T130652Z">
+        <seg>En el libro, se explica cómo Theo estaba tan unido a Vincent Van Gogh que el propio Theo murió poco después que Vincent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the second part of the thesis, I will analyze some of Van Gogh’s paintings and describe how they might illustrate different aspects of his mental illness.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T133143Z" creationid="HP" creationdate="20230519T133143Z">
@@ -1234,6 +1290,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T135017Z" creationid="HP" creationdate="20230519T135017Z">
         <seg>Es el ciervo que consume más tiempo y trabajo etapa de consumo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is visible hos strongly the artist was influenced by his outstanding contemporaries.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131423Z" creationid="dinag" creationdate="20230526T131423Z">
+        <seg>Es evidente que el artista estaba muy influido por sus contemporáneos más destacados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not only his style but the subjects were adapted from the works of the Impressionists – flowers, well-lit sceneries, still lives.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131440Z" creationid="dinag" creationdate="20230526T131440Z">
+        <seg>No sólo su estilo, sino también los temas, fueron adaptados de las obras de los impresionistas: flores, paisajes bien iluminados, bodegones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course, it should be based on authoritative information and proved with the help of a decent examination.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T133357Z" creationid="HP" creationdate="20230519T133357Z">
@@ -1606,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paul Gauguin had been very impressed by Vincent Van Gogh ’s exceptional talent when he first came upon Vincent’s work (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130955Z" creationid="dinag" creationdate="20230526T130858Z">
+        <seg>Paul Gauguin quedó muy impresionado por el excepcional talento de Vincent Van Gogh cuando conoció la obra de Vincent (Naifeh y Smith, 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Peasant Sitting by the Fireplace.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T141301Z" creationid="HP" creationdate="20230519T141301Z">
@@ -1682,6 +1762,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130616Z" creationid="paula" creationdate="20230526T130616Z">
         <seg>Número de registro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Relationship with Paul Gauguin</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130826Z" creationid="dinag" creationdate="20230526T130826Z">
+        <seg>La relación con Paul Gauguin</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The story of how their friendship developed is very interesting.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131026Z" creationid="dinag" creationdate="20230526T131026Z">
+        <seg>La historia del desarrollo de su amistad es muy interesante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The theory that depressions may run in families comes from the perspective that if a child tends to witness a parent suffering from depression, they become likely to develop a depression of their own over time.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T124628Z" creationid="paula" creationdate="20230526T124628Z">
@@ -2222,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These men developed a friendship and were close to each other for they could relate to their inexplicable desire to give a new form to their imaginations as artists and also as people struggling to earn a name in the highly confounding Impressionist art form (de Leeuw, 2006).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131618Z" creationid="dinag" creationdate="20230526T131618Z">
+        <seg>Estos hombres entablaron amistad y se mostraron cercanos el uno al otro porque podían relacionarse por su inexplicable deseo de dar una nueva forma a su imaginación como artistas y también como personas que luchaban por ganarse un nombre en la muy confusa forma de arte impresionista (de Leeuw, 2006).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These words play a crucial role in the understanding of this piece of art.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T143127Z" creationid="HP" creationdate="20230519T143127Z">
@@ -2250,6 +2354,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T211345Z" creationid="dinag" creationdate="20230511T211345Z">
         <seg>Aprendieron mucho el uno del otro a pesar de que su colaboración no fue larga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They met when they were both living in Paris.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131034Z" creationid="dinag" creationdate="20230526T131034Z">
+        <seg>Se conocieron cuando ambos vivían en París.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,6 +2426,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T141022Z" creationid="HP" creationdate="20230519T141022Z">
         <seg>Este es uno de mis favoritos personales; fue creado cuando el artista estaba fascinado por la vida de los simples trabajadores rurales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This painting was the beginning of Vincent’s encounters with nature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131345Z" creationid="dinag" creationdate="20230526T131345Z">
+        <seg>Este cuadro fue el comienzo de los encuentros de Vincent con la naturaleza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2478,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Van Gogh and Gauguin even found an art school together but it did not work out as expected.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T131634Z" creationid="dinag" creationdate="20230526T131634Z">
+        <seg>Van Gogh y Gauguin incluso fundaron juntos una escuela de arte, pero no funcionó como se esperaba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Van Gogh had a difficult childhood this was attributed to his lack of proper socialization in early childhood.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230512T004200Z" creationid="OmegaT Aligner" creationdate="20230512T004200Z">
@@ -2586,6 +2714,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T131959Z" creationid="HP" creationdate="20230519T131959Z">
         <seg>El primer trabajo de Van Gogh fue como vendedor de galerías en 1875, pero no estaba contento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh’s last words were directed for his brother, as he said “The sadness will last forever” (Van Gogh, 2003, p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130748Z" creationid="dinag" creationdate="20230526T130748Z">
+        <seg>Las últimas palabras de Van Gogh iban dirigidas a su hermano, ya que dijo: "La tristeza durará para siempre" (Van Gogh, 2003, p.</seg>
       </tuv>
     </tu>
     <tu>
