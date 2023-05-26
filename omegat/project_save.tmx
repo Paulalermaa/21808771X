@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Understanding Vincent Van Gogh&lt;/e0&gt; (Pap.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230526T154424Z" creationid="maria" creationdate="20230526T154424Z">
+        <seg>&lt;e0&gt;"Understanding Vincent Van Gogh"&lt;/e0&gt; (Pap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Vincent van Gogh: Everything you need to know&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230526T154313Z" creationid="maria" creationdate="20230526T154313Z">
@@ -2199,6 +2207,14 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>London: Pb5880.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230526T154443Z" creationid="maria" creationdate="20230526T154443Z">
+        <seg>Londes: Pb5880.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manet died early in 1883.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T123934Z" creationid="paula" creationdate="20230526T123934Z">
@@ -2323,6 +2339,14 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T123445Z" creationid="paula" creationdate="20230526T123445Z">
         <seg>Sin embargo, Paul Cezanne está considerado uno de los mayores artistas revolucionarios de finales del siglo XIX y principios del XX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New York: Viking press.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230526T154431Z" creationid="maria" creationdate="20230526T154431Z">
+        <seg>Nueva York: Viking press.</seg>
       </tuv>
     </tu>
     <tu>
