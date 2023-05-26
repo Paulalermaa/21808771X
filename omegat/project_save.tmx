@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>A good example is the painting called “The Potato Eaters” which was created in 1885 and brought much recognition to the artist.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130151Z" creationid="dinag" creationdate="20230526T130151Z">
+        <seg>Un buen ejemplo es el cuadro llamado "Los comedores de patatas" que fue creado en 1885 y trajo mucho reconocimiento al artista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A historical study began to explore Van Gogh’s depression and his artistic production throughout his close relationship with Gauguin, another artist of his time.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
@@ -734,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>His works are subtle and filled with light.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130126Z" creationid="dinag" creationdate="20230526T130126Z">
+        <seg>Sus obras son sutiles y llenas de luz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Historical Background</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230507T195902Z" creationid="paula" creationdate="20230507T195902Z">
@@ -1322,6 +1338,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T140227Z" creationid="HP" creationdate="20230519T140227Z">
         <seg>Además, se proporcionará la comparación del desarrollo de los dos artistas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Naifeh and Smith (2011) reveal the changes in the life of Van Gogh after he started to develop his impressionist style and re-invent the dimensions of art Vincent Van Gogh’s paintings and his talent made him immortal.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130233Z" creationid="dinag" creationdate="20230526T130233Z">
+        <seg>Naifeh y Smith (2011) revelan los cambios en la vida de Van Gogh después de que comenzó a desarrollar su estilo impresionista y a reinventar las dimensiones del arte Las pinturas de Vincent Van Gogh y su talento lo hicieron inmortal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,6 +2338,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T125424Z" creationid="paula" creationdate="20230526T125409Z">
         <seg>A Van Gogh se le diagnosticó una lesión cerebral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh was influenced by the style of Rubens and the Japanese still life which he traveled to see in Antwerp (Naifeh &amp; Smith, 2011).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="dinag" changedate="20230526T130208Z" creationid="dinag" creationdate="20230526T130208Z">
+        <seg>Van Gogh se vio influenciado por el estilo de Rubens y los bodegones japoneses que viajó a ver a Amberes (Naifeh y Smith, 2011).</seg>
       </tuv>
     </tu>
     <tu>
