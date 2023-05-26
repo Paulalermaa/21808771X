@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conclusion Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131705Z" creationid="paula" creationdate="20230526T131705Z">
+        <seg>Generador de conclusiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contact</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131454Z" creationid="paula" creationdate="20230526T131454Z">
@@ -402,6 +410,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131534Z" creationid="paula" creationdate="20230526T131534Z">
         <seg>Descuentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Donate a Paper</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131553Z" creationid="paula" creationdate="20230526T131553Z">
+        <seg>Dona un papel</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +514,30 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T125336Z" creationid="paula" creationdate="20230526T125336Z">
         <seg>La epilepsia era una enfermedad común durante la vida de Vincent Van Gogh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Essay Rephraser</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131820Z" creationid="paula" creationdate="20230526T131820Z">
+        <seg>Reformulador de ensayos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Essay Reworder</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131744Z" creationid="paula" creationdate="20230526T131744Z">
+        <seg>Reordenación de ensayos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Essay Topics</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131630Z" creationid="paula" creationdate="20230526T131630Z">
+        <seg>Temas de ensayo</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +666,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
         <seg>Guerra franco-prusiana (1870-1871)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Free Writing Tools</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131647Z" creationid="paula" creationdate="20230526T131647Z">
+        <seg>Herramientas de escritura gratuitas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1614,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Online Plagiarism Checker</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131806Z" creationid="paula" creationdate="20230526T131806Z">
+        <seg>Comprobador de plagio en línea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other indicators that he might have had bipolar disorder can be seen if we carefully examine Vincent Van Gogh’s life history where it can be easily noted that Vincent Van Gogh’s life was separated into different periods.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T125214Z" creationid="paula" creationdate="20230526T125214Z">
@@ -1854,6 +1910,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Study Blog</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131609Z" creationid="paula" creationdate="20230526T131609Z">
+        <seg>Blog de estudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such aims are usually achieved with the help of historical method, and my research is not an exception.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T140242Z" creationid="HP" creationdate="20230519T140242Z">
@@ -1874,6 +1938,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T131601Z" creationid="HP" creationdate="20230519T131601Z">
         <seg>Cantidades tan intensas de sol pueden causar un gran daño al cerebro y podrían haber causado que Vincent Van Gogh también tuviera muchos problemas estomacales (Tralbaut, 1969).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Summary Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131838Z" creationid="paula" creationdate="20230526T131838Z">
+        <seg>Generador de resúmenes</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,6 +2402,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T143127Z" creationid="HP" creationdate="20230519T143127Z">
         <seg>Estas palabras juegan un papel crucial en la comprensión de esta obra de arte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thesis Maker</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131724Z" creationid="paula" creationdate="20230526T131724Z">
+        <seg>Creador de tesis</seg>
       </tuv>
     </tu>
     <tu>
