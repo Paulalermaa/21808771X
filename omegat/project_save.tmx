@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although the eleven seceding states tried to form their own country, the power of the Union was too strong and the United States remained as one nation (Keegan, 2010).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T120536Z" creationid="paula" creationdate="20230526T120536Z">
+        <seg>Aunque los once estados secesionistas intentaron formar su propio país, el poder de la Unión era demasiado fuerte y Estados Unidos permaneció como una sola nación (Keegan, 2010).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although the war took place in the United States in North America, the events in America influenced life in Europe since the union decided to blockade the Confederate seaports which supplied cotton and other material into Europe.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230507T173348Z" creationid="OmegaT Aligner" creationdate="20230507T173348Z">
@@ -1010,6 +1018,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T115848Z" creationid="paula" creationdate="20230526T115848Z">
         <seg>La Revolución Francesa es comúnmente llamada la Revolución de Febrero y duró desde el 23 &lt;s0&gt;de&lt;/s0&gt; febrero hasta el 2 &lt;s1&gt;de&lt;/s1&gt; diciembre de 1848.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The French army had a handful of people against a large number of people in Prussia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T120628Z" creationid="paula" creationdate="20230526T120628Z">
+        <seg>El ejército francés contaba con un puñado de personas frente a un gran número de prusianos. </seg>
       </tuv>
     </tu>
     <tu>
