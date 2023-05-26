@@ -80,8 +80,8 @@
       <tuv lang="en">
         <seg>&lt;e0&gt;Theories of personality&lt;/e0&gt; (8th ed.).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230526T155745Z" creationid="maria" creationdate="20230526T155745Z">
-        <seg>&lt;e0&gt;"Teorías de la personalidad"&lt;/e0&gt; (8ª ed.).</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230526T155812Z" creationid="maria" creationdate="20230526T155745Z">
+        <seg>&lt;e0&gt;"Theories of personality"&lt;/e0&gt; (8ª ed.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2347,6 +2347,14 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T123445Z" creationid="paula" creationdate="20230526T123445Z">
         <seg>Sin embargo, Paul Cezanne está considerado uno de los mayores artistas revolucionarios de finales del siglo XIX y principios del XX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New York: McGraw-Hill.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230526T155826Z" creationid="maria" creationdate="20230526T155826Z">
+        <seg>Nueva York: McGraw-Hill.</seg>
       </tuv>
     </tu>
     <tu>
