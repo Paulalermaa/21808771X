@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>7Ps Template</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133853Z" creationid="HP" creationdate="20230526T133853Z">
+        <seg>Plantilla de las 7P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>7S McKinsey Template</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133940Z" creationid="HP" creationdate="20230526T133940Z">
+        <seg>Plantilla 7S McKinsey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;SWOT Analysis&lt;/a0&gt; &lt;a1&gt;SOAR Analysis&lt;/a1&gt; &lt;a2&gt;VRIO Analysis&lt;/a2&gt; &lt;a3&gt;PESTEL Analysis&lt;/a3&gt; &lt;a4&gt;Porter’s Five Forces&lt;/a4&gt; &lt;a5&gt;DESTEP Template&lt;/a5&gt; &lt;a6&gt;VMOST Template&lt;/a6&gt; &lt;a7&gt;7Ps Template&lt;/a7&gt; &lt;a8&gt;SMART Template&lt;/a8&gt; &lt;a9&gt;STP Template&lt;/a9&gt; &lt;a10&gt;7S McKinsey Template&lt;/a10&gt; &lt;a11&gt;STEEPLE Template&lt;/a11&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T134211Z" creationid="HP" creationdate="20230526T134211Z">
+        <seg>&lt;a0&gt;&lt;/a0&gt; &lt;a1&gt;&lt;/a1&gt; &lt;a2&gt;&lt;/a2&gt; &lt;a3&gt;&lt;/a3&gt; &lt;a4&gt;&lt;/a4&gt; &lt;a5&gt;&lt;/a5&gt; &lt;a6&gt;&lt;/a6&gt; &lt;a7&gt;&lt;/a7&gt; &lt;a8&gt;&lt;/a8&gt; &lt;a9&gt;&lt;/a9&gt; &lt;a10&gt;&lt;/a10&gt; &lt;a11&gt;&lt;/a11&gt;Análisis DAFO Análisis SOAR Análisis VRIO&lt;Análisis PESTEL Las cinco fuerzas de Porter Plantilla DESTEPPlantilla VMOST Plantilla Plantilla SMARTPlantilla STPPlantilla 7S McKinsey Plantilla STEEPLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Сitation Machine&lt;/a0&gt; &lt;a1&gt;Conclusion Generator&lt;/a1&gt; &lt;a2&gt;Research Question Maker&lt;/a2&gt; &lt;a3&gt;Thesis Maker&lt;/a3&gt; &lt;a4&gt;Research Hypothesis Generator&lt;/a4&gt; &lt;a5&gt;Reworder&lt;/a5&gt; &lt;a6&gt;Research Problem Generator&lt;/a6&gt; &lt;a7&gt;Rephraser&lt;/a7&gt; &lt;a8&gt;Research Purpose Generator&lt;/a8&gt; &lt;a9&gt;Summary Generator&lt;/a9&gt; &lt;a10&gt;Research Objectives Generator&lt;/a10&gt; &lt;a11&gt;Read My Paper&lt;/a11&gt; &lt;a12&gt;Mission Statement Generator&lt;/a12&gt; &lt;a13&gt;Title Generator&lt;/a13&gt; &lt;a14&gt;Vision Statement Generator&lt;/a14&gt; &lt;a15&gt;Title Page Generator&lt;/a15&gt; &lt;a16&gt;Topic Sentence Maker&lt;/a16&gt; &lt;a17&gt;ChatGPT Detection Tool&lt;/a17&gt; &lt;a18&gt;Concluding Sentence Generator&lt;/a18&gt; &lt;a19&gt;Hook Sentence Generator&lt;/a19&gt; &lt;a20&gt;Personal Statement Generator&lt;/a20&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T133601Z" creationid="HP" creationdate="20230526T133601Z">
@@ -443,6 +467,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T124345Z" creationid="paula" creationdate="20230526T124345Z">
         <seg>Courbet era pintor de nacimiento y dibujaba desde muy pequeño, utilizando a sus hermanas como temas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DESTEP Template</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133748Z" creationid="HP" creationdate="20230526T133748Z">
+        <seg>Plantilla DESTEP</seg>
       </tuv>
     </tu>
     <tu>
@@ -1919,6 +1951,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PESTEL Analysis</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133716Z" creationid="HP" creationdate="20230526T133716Z">
+        <seg>Análisis PESTEL </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paul Cezanne (1839-1906)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T124221Z" creationid="paula" creationdate="20230526T120936Z">
@@ -1987,6 +2027,14 @@ Generador de frases finales&lt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T124154Z" creationid="paula" creationdate="20230526T124154Z">
         <seg>Pierre-Auguste Renoir (1841 - 1919)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Porter’s Five Forces</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133732Z" creationid="HP" creationdate="20230526T133732Z">
+        <seg>Las cinco fuerzas de Porter</seg>
       </tuv>
     </tu>
     <tu>
@@ -2159,6 +2207,14 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SMART Template</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133907Z" creationid="HP" creationdate="20230526T133907Z">
+        <seg>Plantilla SMART</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SOAR Analysis</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T133659Z" creationid="HP" creationdate="20230526T133637Z">
@@ -2167,10 +2223,26 @@ Generador de frases finales&lt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>STEEPLE Template</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133955Z" creationid="HP" creationdate="20230526T133955Z">
+        <seg>Plantilla STEEPLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>STP Template</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133924Z" creationid="HP" creationdate="20230526T133924Z">
+        <seg>Plantilla STP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SWOT Analysis</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T133631Z" creationid="HP" creationdate="20230526T133631Z">
-        <seg>Análisis DAFO</seg>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133707Z" creationid="HP" creationdate="20230526T133631Z">
+        <seg>Análisis SWOT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3100,6 +3172,14 @@ Generador de portadas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130642Z" creationid="paula" creationdate="20230526T130642Z">
         <seg>Número IVA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VMOST Template</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T133802Z" creationid="HP" creationdate="20230526T133802Z">
+        <seg>Plantilla VMOST</seg>
       </tuv>
     </tu>
     <tu>
