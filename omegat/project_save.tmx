@@ -2542,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This researcher has also been influenced by Van Gogh and wanted to learn more about him</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132155Z" creationid="HP" creationdate="20230526T132155Z">
+        <seg>Este investigador también se ha visto influido por Van Gogh y ha querido saber más sobre él</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This researcher has also been influenced by Van Gogh and wanted to learn more about him.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
