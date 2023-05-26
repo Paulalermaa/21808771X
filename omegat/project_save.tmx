@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close and clear the search form</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132420Z" creationid="HP" creationdate="20230526T132420Z">
+        <seg>Cerrar y borrar el formulario de búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Company:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130553Z" creationid="paula" creationdate="20230526T130553Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131647Z" creationid="paula" creationdate="20230526T131647Z">
         <seg>Herramientas de escritura gratuitas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Free essays</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132327Z" creationid="HP" creationdate="20230526T132327Z">
+        <seg>Ensayos gratuitos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,6 +1990,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132400Z" creationid="HP" creationdate="20230526T132400Z">
+        <seg>Búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132348Z" creationid="HP" creationdate="20230526T132348Z">
+        <seg>Buscar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Send email to support@studycorgi.com</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130210Z" creationid="paula" creationdate="20230526T130210Z">
@@ -2822,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132435Z" creationid="HP" creationdate="20230526T132435Z">
+        <seg>Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>VAT Number:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130642Z" creationid="paula" creationdate="20230526T130642Z">
@@ -2938,6 +2978,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230511T155331Z" creationid="maria" creationdate="20230511T155331Z">
         <seg>Van Gogh “Lo ví como erróneamente condenado, no enfermo” (Charles, 2014, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Van Gogh's Art, Gogen's Influence and Mental Illness | Free Essay Example</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132231Z" creationid="HP" creationdate="20230526T132231Z">
+        <seg>El arte de Van Gogh, la influencia de Gogen y la enfermedad mental | Ejemplo de ensayo gratuito</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Writing Tools</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132450Z" creationid="HP" creationdate="20230526T132450Z">
+        <seg>escribiendo herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are free to use it to write your own assignment, however you must reference it properly.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131134Z" creationid="paula" creationdate="20230526T131134Z">
@@ -3214,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>summary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132256Z" creationid="HP" creationdate="20230526T132256Z">
+        <seg>sumario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tel:37256353620</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130101Z" creationid="paula" creationdate="20230526T130101Z">
@@ -3226,6 +3290,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230519T143329Z" creationid="HP" creationdate="20230519T143329Z">
         <seg>que la depresión maníaca es una condición que incluye períodos de creatividad activa y la falta de ella; este último va acompañado del sentimiento de impotencia y desesperación (Lewis, 2010). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>website</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132205Z" creationid="HP" creationdate="20230526T132205Z">
+        <seg>página web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Сitation Machine</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="HP" changedate="20230526T132535Z" creationid="HP" creationdate="20230526T132535Z">
+        <seg>Máquina de Сitación</seg>
       </tuv>
     </tu>
     <tu>
