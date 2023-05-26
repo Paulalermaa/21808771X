@@ -320,8 +320,8 @@
       <tuv lang="en">
         <seg>Check the price of your paper</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="paula" changedate="20230526T131300Z" creationid="paula" creationdate="20230526T131300Z">
-        <seg>Compruebe el precio de su papel</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131913Z" creationid="paula" creationdate="20230526T131300Z">
+        <seg>Compruebe el precio de su artículo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Read My Paper</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131856Z" creationid="paula" creationdate="20230526T131856Z">
+        <seg>Lea mi artículo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference List</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T130935Z" creationid="paula" creationdate="20230526T130935Z">
@@ -1858,6 +1866,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131200Z" creationid="paula" creationdate="20230526T131200Z">
         <seg>Solicitar la retirada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Research Title Generator</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230526T131937Z" creationid="paula" creationdate="20230526T131937Z">
+        <seg>Generador de títulos de investigación</seg>
       </tuv>
     </tu>
     <tu>
