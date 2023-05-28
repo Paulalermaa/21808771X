@@ -240,8 +240,8 @@
       <tuv lang="en">
         <seg>After looking at the painting, it is apparent that, despite the proximity, the man pays no attention to the heat, as if his mental pain overrides the physical one (van Gogh, 1881).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T143502Z" creationid="HP" creationdate="20230519T143502Z">
-        <seg>Después de mirar la pintura, es evidente que, a pesar de la proximidad, el hombre no presta atención al calor, como si su dolor mental anulara el físico (van Gogh, 1881).</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T194237Z" creationid="HP" creationdate="20230519T143502Z">
+        <seg>Después de mirar la pintura, es evidente que, a pesar de la proximidad, el hombre no presta atención al calor, como si su dolor mental anulara el físico (Van Gogh, 1881).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3313,8 +3313,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>The colors are dark and gloomy, proving that the outer world and the inner perception of the person in the picture coincide.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T143304Z" creationid="HP" creationdate="20230519T143304Z">
-        <seg>Los colores son oscuros y sombríos, lo que demuestra que el mundo exterior y la percepción interior de la persona en la imagen coinciden</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T194111Z" creationid="HP" creationdate="20230519T143304Z">
+        <seg>Los colores son oscuros y sombríos, lo que demuestra que el mundo exterior y la percepción interior de la persona en la imagen coinciden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3449,8 +3449,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>The latter state can be perceived in the drawing.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T143345Z" creationid="HP" creationdate="20230519T143345Z">
-        <seg>Este último estado se puede percibir en el dibujo</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T194131Z" creationid="HP" creationdate="20230519T143345Z">
+        <seg>Este último estado se puede percibir en el dibujo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3489,8 +3489,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>The name of the picture itself is rather symbolic.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T142933Z" creationid="HP" creationdate="20230519T142019Z">
-        <seg> El nombre de la imagen en sí es bastante simbólico. </seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T194029Z" creationid="HP" creationdate="20230519T142019Z">
+        <seg>El nombre de la imagen en sí es bastante simbólico. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3665,8 +3665,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>The two words in the brackets are the name of the group of peasant portraits.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T143143Z" creationid="HP" creationdate="20230519T142834Z">
-        <seg>Las dos palabras entre paréntesis son el nombre del grupo de retratos campesinos. Estas </seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T194036Z" creationid="HP" creationdate="20230519T142834Z">
+        <seg>Las dos palabras entre paréntesis son el nombre del grupo de retratos campesinos. </seg>
       </tuv>
     </tu>
     <tu>
