@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;On-Time Delivery!&lt;/s0&gt; Get your &lt;s1&gt;100% customized paper&lt;/s1&gt; &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T113049Z" creationid="paula" creationdate="20230528T113049Z">
+        <seg>&lt;s0&gt;Entrega a tiempo&lt;/s0&gt; Obtenga su &lt;s1&gt;documento 100% personalizado&lt;/s1&gt;.&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A closer look at it will reveal the impact of Gaugin and other Impressionists of the time such as Monet – the colors and the blurry and flowing nature of the objects, the bright light, and very short brush strokes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230526T131402Z" creationid="dinag" creationdate="20230526T131402Z">
