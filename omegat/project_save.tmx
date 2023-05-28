@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s3&gt;for only &lt;s4&gt;$13.00&lt;/s4&gt; &lt;s5&gt;$11.05/page&lt;/s5&gt;&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T204552Z" creationid="maria" creationdate="20230528T204552Z">
+        <seg>&lt;s3&gt;por solo &lt;s4&gt;$13.00&lt;/s4&gt; &lt;s5&gt;$11.05/página&lt;/s5&gt;&lt;/s3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A closer look at it will reveal the impact of Gaugin and other Impressionists of the time such as Monet – the colors and the blurry and flowing nature of the objects, the bright light, and very short brush strokes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230526T131402Z" creationid="dinag" creationdate="20230526T131402Z">
