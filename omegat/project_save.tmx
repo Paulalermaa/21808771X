@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>3 hours!</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T134322Z" creationid="HP" creationdate="20230526T134322Z">
-        <seg>3 horas!</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T212404Z" creationid="HP" creationdate="20230526T134322Z">
+        <seg>¡3 horas!</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +114,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="maria" changedate="20230526T154313Z" creationid="maria" creationdate="20230526T154313Z">
         <seg>&lt;e0&gt;Vincent van Gogh: Todo lo que necesitas saber&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt; &lt;s1&gt; Topics: &lt;a2&gt;Illness&lt;/a2&gt;, &lt;a3&gt;Mental Illness&lt;/a3&gt; &lt;/s1&gt; &lt;/s0&gt; &lt;s4&gt; &lt;s5&gt;Words: 8399&lt;/s5&gt; &lt;s6&gt;Pages: 31&lt;/s6&gt; &lt;/s4&gt; &lt;s7&gt; &lt;t8&gt; &lt;s9&gt;Updated: Apr 24th, 2023&lt;/s9&gt; &lt;/t8&gt; &lt;/s7&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T212514Z" creationid="paula" creationdate="20230528T212514Z">
+        <seg>&lt;s0&gt; &lt;s1&gt; Tópicos: &lt;a2&gt;Enfermedad&lt;/a2&gt;, &lt;a3&gt;Enfermedad Mental&lt;/a3&gt; &lt;/s1&gt; &lt;/s0&gt; &lt;s4&gt; &lt;s5&gt;Palabras: 8399&lt;/s5&gt; &lt;s6&gt;Páginas: 31&lt;/s6&gt; &lt;/s4&gt; &lt;s7&gt; &lt;t8&gt; &lt;s9&gt;Actualizado: 24 de abril de 2023&lt;/s9&gt; &lt;/t8&gt; &lt;/s7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2544,8 +2552,8 @@
       <tuv lang="en">
         <seg>Open or close mobile menu</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T134300Z" creationid="HP" creationdate="20230526T134300Z">
-        <seg>Abrir o cerrar el menú del móvil&lt;</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T212355Z" creationid="HP" creationdate="20230526T134300Z">
+        <seg>Abrir o cerrar el menú del móvil</seg>
       </tuv>
     </tu>
     <tu>
@@ -4120,9 +4128,8 @@
       <tuv lang="en">
         <seg>Title Page Generator</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230528T203216Z" creationid="HP" creationdate="20230526T132916Z">
-        <seg>
-Generador de portadas</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T212344Z" creationid="HP" creationdate="20230526T132916Z">
+        <seg>Generador de portadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4529,8 +4536,8 @@ Generador de portadas</seg>
       <tuv lang="en">
         <seg>Vincent Van Gogh had a miserable childhood and was described as unstable with emotional problems.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="dinag" changedate="20230511T161910Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
-        <seg>Vincent Van Gogh tuvo una infancia desafortunada y fue descrito como inestable y con problemas emocionales.</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T212550Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>Vincent van Gogh tuvo una infancia desafortunada y fue descrito como inestable y con problemas emocionales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4545,8 +4552,8 @@ Generador de portadas</seg>
       <tuv lang="en">
         <seg>Vincent Van Gogh made a significant influence on the art of the 20th century.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230511T161419Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
-        <seg>Vincent Van Gogh ejerció una influencia significativa en el arte del siglo XX.</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T212531Z" creationid="OmegaT Aligner" creationdate="20230511T161419Z">
+        <seg>Vincent van Gogh ejerció una influencia significativa en el arte del siglo XX.</seg>
       </tuv>
     </tu>
     <tu>
