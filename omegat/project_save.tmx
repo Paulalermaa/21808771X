@@ -991,6 +991,14 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fig. 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T193357Z" creationid="paula" creationdate="20230528T193357Z">
+        <seg>Figura 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Figure 1 is a photograph of Vincent Van Gogh as a child Vincent Van Gogh was born in Groot-Zundert, the Netherlands, on March 30, 1853.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="dinag" changedate="20230511T204117Z" creationid="dinag" creationdate="20230511T201452Z">
@@ -1545,8 +1553,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Historical time</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T141615Z" creationid="HP" creationdate="20230519T141615Z">
-        <seg>tiempo historico</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T193453Z" creationid="HP" creationdate="20230519T141615Z">
+        <seg>Tiempo histórico</seg>
       </tuv>
     </tu>
     <tu>
@@ -2633,8 +2641,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Peasant Sitting by the Fireplace.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T141301Z" creationid="HP" creationdate="20230519T141301Z">
-        <seg>tiempo historico</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T193351Z" creationid="HP" creationdate="20230519T141301Z">
+        <seg>Campesino sentado junto a la chimenea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3321,8 +3329,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>The continuing political conflicts (e.g. Franco-Prussian War) added to the pressure that van Gogh experienced throughout his life.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T141646Z" creationid="HP" creationdate="20230519T141646Z">
-        <seg>El continuo conflicto político los conflictos políticos (por ejemplo, la guerra franco-prusiana) se sumaron a la presión que experimentó van Gogh a lo largo de su vida.</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T193640Z" creationid="HP" creationdate="20230519T141646Z">
+        <seg>El continuo conflicto político los conflictos políticos (por ejemplo, la guerra franco-prusiana) se sumaron a la presión que experimentó Van Gogh a lo largo de su vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4866,8 +4874,8 @@ Generador de portadas</seg>
       <tuv lang="en">
         <seg>“Peasant Sitting by the Fireplace (Worn Out)” (van Gogh, 1881).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T141549Z" creationid="HP" creationdate="20230519T141549Z">
-        <seg>cuerda campesina junto a la chimenea</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T193445Z" creationid="HP" creationdate="20230519T141549Z">
+        <seg>"Campesino sentado junto a la chimenea (Agotado)" (Van Gogh, 1881).</seg>
       </tuv>
     </tu>
     <tu>
