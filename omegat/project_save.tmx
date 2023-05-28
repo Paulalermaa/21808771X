@@ -505,8 +505,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>At Saint-Remy, Van Gogh was extremely productive; it can be concluded that working on his paintings was bringing him relief.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230511T155702Z" creationid="maria" creationdate="20230511T155702Z">
-        <seg>En Saint-Rémy, Van Gogh fue extremadamente productivo; se puede concluir que pintar sus cuadros lo aliviaba.</seg>
+      <tuv lang="es-ES" changeid="HP" changedate="20230528T205417Z" creationid="maria" creationdate="20230511T155702Z">
+        <seg>En Saint-Remy, Van Gogh fue extremadamente productivo; se puede concluir que pintar sus cuadros lo aliviaba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3001,8 +3001,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Shortly before Christmas Van Gogh, tried to attack Gauguin with a razor.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T144743Z" creationid="HP" creationdate="20230519T144743Z">
-        <seg>Pocos días antre de navidad, Van Gogh, intentó atacar a Gauguin with un afeitador.</seg>
+      <tuv lang="es-ES" changeid="HP" changedate="20230528T205255Z" creationid="HP" creationdate="20230519T144743Z">
+        <seg>Pocos días antes de navidad, Van Gogh, intentó atacar a Gauguin un afeitador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3505,8 +3505,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>The next day he went to a mental hospital at Saint-Remy.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230511T155227Z" creationid="maria" creationdate="20230511T155227Z">
-        <seg>Al día siguiente fue a un hospital psiquiátrico en Saint-Rémy.</seg>
+      <tuv lang="es-ES" changeid="HP" changedate="20230528T205426Z" creationid="maria" creationdate="20230511T155227Z">
+        <seg>Al día siguiente fue a un hospital psiquiátrico en Saint-Remy.</seg>
       </tuv>
     </tu>
     <tu>
