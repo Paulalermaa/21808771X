@@ -1553,8 +1553,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Historical time</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="paula" changedate="20230528T193453Z" creationid="HP" creationdate="20230519T141615Z">
-        <seg>Tiempo histórico</seg>
+      <tuv lang="es-ES" changeid="HP" changedate="20230528T203534Z" creationid="HP" creationdate="20230519T141615Z">
+        <seg>Momento histórico</seg>
       </tuv>
     </tu>
     <tu>
