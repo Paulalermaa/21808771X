@@ -2865,8 +2865,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Research Objectives Generator</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T132745Z" creationid="HP" creationdate="20230526T132745Z">
-        <seg>Generador de objetivos de investigación</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T203007Z" creationid="HP" creationdate="20230526T132745Z">
+        <seg>Generador de Objetivos de Investigación</seg>
       </tuv>
     </tu>
     <tu>
@@ -3121,8 +3121,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Summary Generator</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="paula" changedate="20230526T131838Z" creationid="paula" creationdate="20230526T131838Z">
-        <seg>Generador de resúmenes</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T202950Z" creationid="paula" creationdate="20230526T131838Z">
+        <seg>Generador de Resúmenes</seg>
       </tuv>
     </tu>
     <tu>
@@ -4105,7 +4105,7 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Title Generator</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T132838Z" creationid="HP" creationdate="20230526T132838Z">
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T203230Z" creationid="HP" creationdate="20230526T132838Z">
         <seg>Generador de títulos</seg>
       </tuv>
     </tu>
@@ -4113,7 +4113,7 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Title Page Generator</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T132916Z" creationid="HP" creationdate="20230526T132916Z">
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T203216Z" creationid="HP" creationdate="20230526T132916Z">
         <seg>
 Generador de portadas</seg>
       </tuv>
@@ -4618,7 +4618,7 @@ Generador de portadas</seg>
       <tuv lang="en">
         <seg>Vision Statement Generator</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T132854Z" creationid="HP" creationdate="20230526T132854Z">
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T203223Z" creationid="HP" creationdate="20230526T132854Z">
         <seg>Generador de declaraciones de visión</seg>
       </tuv>
     </tu>
