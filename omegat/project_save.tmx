@@ -849,8 +849,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>During this stage, conclusions are also made.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T135434Z" creationid="HP" creationdate="20230519T135229Z">
-        <seg>En esta etapa también se elaboran conclusiones</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T191426Z" creationid="HP" creationdate="20230519T135229Z">
+        <seg>En esta etapa también se elaboran conclusiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2057,8 +2057,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>It is the most time- and labor-consuming stage.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T135017Z" creationid="HP" creationdate="20230519T135017Z">
-        <seg>Es el ciervo que consume más tiempo y trabajo etapa de consumo. </seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T191309Z" creationid="HP" creationdate="20230519T135017Z">
+        <seg>Es la fase que requiere más tiempo y trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2633,8 +2633,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Perform the findings and interpret them.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T135418Z" creationid="HP" creationdate="20230519T135418Z">
-        <seg>Realizar los hallazgos e interpretarlos</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T191446Z" creationid="HP" creationdate="20230519T135418Z">
+        <seg>Realizar los hallazgos e interpretarlos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3569,8 +3569,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>The researcher describes the subject, provides the information about it, and points out what information misses and why.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T135144Z" creationid="HP" creationdate="20230519T135144Z">
-        <seg>El investigador describe el tema, proporciona la información al respecto y señala qué información falta y por qué</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T191357Z" creationid="HP" creationdate="20230519T135144Z">
+        <seg>El investigador describe el tema, proporciona la información al respecto y señala qué información falta y por qué.</seg>
       </tuv>
     </tu>
     <tu>
