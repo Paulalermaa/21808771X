@@ -689,8 +689,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Conclusion Generator</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230528T202625Z" creationid="paula" creationdate="20230526T131705Z">
-        <seg>Generador de Conclusiones</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T203432Z" creationid="paula" creationdate="20230526T131705Z">
+        <seg>Generador de conclusiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -2865,8 +2865,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Research Objectives Generator</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230528T203007Z" creationid="HP" creationdate="20230526T132745Z">
-        <seg>Generador de Objetivos de Investigación</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T203312Z" creationid="HP" creationdate="20230526T132745Z">
+        <seg>Generador de objetivos de investigación</seg>
       </tuv>
     </tu>
     <tu>
@@ -2881,16 +2881,16 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Research Purpose Statement Generator</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230528T202942Z" creationid="HP" creationdate="20230526T132729Z">
-        <seg>Generador de Declaraciones de Propósitos de Investigación</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T203405Z" creationid="HP" creationdate="20230526T132729Z">
+        <seg>Generador de declaraciones de propósitos de investigación</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Research Question Maker</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230528T202705Z" creationid="HP" creationdate="20230526T132554Z">
-        <seg>Formulador de Preguntas de Investigación</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T203428Z" creationid="HP" creationdate="20230526T132554Z">
+        <seg>Formulador de preguntas de investigación</seg>
       </tuv>
     </tu>
     <tu>
@@ -3121,8 +3121,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Summary Generator</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230528T202950Z" creationid="paula" creationdate="20230526T131838Z">
-        <seg>Generador de Resúmenes</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T203328Z" creationid="paula" creationdate="20230526T131838Z">
+        <seg>Generador de resúmenes</seg>
       </tuv>
     </tu>
     <tu>
@@ -3817,8 +3817,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Thesis Maker</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="maria" changedate="20230528T202716Z" creationid="paula" creationdate="20230526T131724Z">
-        <seg>Creador de Tesis</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T203417Z" creationid="paula" creationdate="20230526T131724Z">
+        <seg>Creador de tesis</seg>
       </tuv>
     </tu>
     <tu>
@@ -4850,8 +4850,8 @@ Generador de portadas</seg>
       <tuv lang="en">
         <seg>Сitation Machine</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T132535Z" creationid="HP" creationdate="20230526T132535Z">
-        <seg>Máquina de Сitación</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T203438Z" creationid="HP" creationdate="20230526T132535Z">
+        <seg>Máquina de citación</seg>
       </tuv>
     </tu>
     <tu>
