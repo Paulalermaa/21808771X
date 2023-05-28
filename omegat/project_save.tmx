@@ -2881,8 +2881,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Research Purpose Statement Generator</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T132729Z" creationid="HP" creationdate="20230526T132729Z">
-        <seg>Generador de declaraciones de propósitos de investigación</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T202942Z" creationid="HP" creationdate="20230526T132729Z">
+        <seg>Generador de Declaraciones de Propósitos de Investigación</seg>
       </tuv>
     </tu>
     <tu>
@@ -3817,8 +3817,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Thesis Maker</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="paula" changedate="20230526T131724Z" creationid="paula" creationdate="20230526T131724Z">
-        <seg>Creador de tesis</seg>
+      <tuv lang="es-ES" changeid="maria" changedate="20230528T202716Z" creationid="paula" creationdate="20230526T131724Z">
+        <seg>Creador de Tesis</seg>
       </tuv>
     </tu>
     <tu>
