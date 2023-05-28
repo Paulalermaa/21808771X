@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>241, 317-321).ok</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T193321Z" creationid="paula" creationdate="20230528T193321Z">
+        <seg>241, 317 - 321). Ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3 hours!</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T134322Z" creationid="HP" creationdate="20230526T134322Z">
@@ -521,8 +529,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>Besides the information from van Gogh’s biographical books, a good way to analyze his state of mind is to study his paintings and the time sequence of when they were painted from both the personal and social perspectives.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T140953Z" creationid="HP" creationdate="20230519T140953Z">
-        <seg>Además de la información de los libros biográficos de van Gogh, una buena manera de analizar su estado de ánimo es estudiar sus pinturas y la secuencia de tiempo en que fueron pintadas, tanto desde la perspectiva personal como social. </seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T193025Z" creationid="HP" creationdate="20230519T140953Z">
+        <seg>Además de la información de los libros biográficos de Van Gogh, una buena manera de analizar su estado de ánimo es estudiar sus pinturas y la secuencia de tiempo en que fueron pintadas, tanto desde la perspectiva personal como social. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3521,8 +3529,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>The picture under consideration is the “Peasant Sitting by the Fireplace (‘Worn Out’)”, drawn in September 1881.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T141005Z" creationid="HP" creationdate="20230519T141005Z">
-        <seg>El cuadro que se está considerando es el “Campesino sentado junto a la chimenea (‘Desgastado’)”, dibujado en septiembre de 1881.  </seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T193213Z" creationid="HP" creationdate="20230519T141005Z">
+        <seg>El cuadro que se está considerando es el “Campesino sentado junto a la chimenea (‘Desgastado’)”, dibujado en septiembre de 1881. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3945,8 +3953,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>This one is among my personal favorites; it was created when the artist was fascinated by the life of simple rural workers.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230519T141022Z" creationid="HP" creationdate="20230519T141022Z">
-        <seg>Este es uno de mis favoritos personales; fue creado cuando el artista estaba fascinado por la vida de los simples trabajadores rurales</seg>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T193236Z" creationid="HP" creationdate="20230519T141022Z">
+        <seg>Este es uno de mis favoritos personales; fue creado cuando el artista estaba fascinado por la vida de los simples trabajadores rurales.</seg>
       </tuv>
     </tu>
     <tu>
