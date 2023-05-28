@@ -448,9 +448,8 @@
       <tuv lang="en">
         <seg>As can be seen in the painting, this part of the building looks different than any other – it has green shutters on the windows, which is why it contrasts with the rest of the picture.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T142724Z" creationid="HP" creationdate="20230526T142724Z">
-        <seg>con el resto del cuadro.
-Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferente a las demás: tiene contraventanas verdes en las ventanas, por lo que contrasta con el resto del cuadro.</seg>
+      <tuv lang="es-ES" changeid="HP" changedate="20230528T212324Z" creationid="HP" creationdate="20230526T142724Z">
+        <seg>Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferente a las demás: tiene contraventanas verdes en las ventanas, por lo que contrasta con el resto del cuadro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1585,8 +1584,8 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
       <tuv lang="en">
         <seg>House in this test is a symbolic interpretation of a person’s relationships with his or her surroundings (Knoff, 2003).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="HP" changedate="20230526T142624Z" creationid="HP" creationdate="20230526T142624Z">
-        <seg>House en esta prueba es una interpretación simbólica de las relaciones de una persona con su entorno (Knoff, 2003).</seg>
+      <tuv lang="es-ES" changeid="HP" changedate="20230528T212048Z" creationid="HP" creationdate="20230526T142624Z">
+        <seg>La casa, en esta prueba es una interpretación simbólica de las relaciones de una persona con su entorno (Knoff, 2003).</seg>
       </tuv>
     </tu>
     <tu>
