@@ -783,6 +783,14 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disclaimer: Services provided by StudyCorgi are to be used for research purposes only.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T113408Z" creationid="paula" creationdate="20230528T113408Z">
+        <seg>Cláusula de exención de responsabilidad: Los servicios prestados por StudyCorgi deben utilizarse únicamente con fines de investigación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Discounts</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T131534Z" creationid="paula" creationdate="20230526T131534Z">
@@ -1735,10 +1743,26 @@ Como puede verse en el cuadro, esta parte del edificio tiene un aspecto diferent
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are the original creator of this paper and no longer wish to have it published on StudyCorgi, &lt;a0&gt;request the removal&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T113239Z" creationid="paula" creationdate="20230528T113239Z">
+        <seg>Si usted es el creador original de este artículo y ya no desea que se publique en StudyCorgi, &lt;a0&gt;solicite la eliminación&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you keep using the site, you accept our &lt;a0&gt;Cookies Policy&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="paula" changedate="20230526T132222Z" creationid="paula" creationdate="20230526T132222Z">
         <seg>Si sigues utilizando el sitio, aceptas nuestra Política de Cookies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you use an assignment from StudyCorgi website, it should be referenced accordingly.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T113344Z" creationid="paula" creationdate="20230528T113344Z">
+        <seg>Si utiliza una tarea del sitio web StudyCorgi, debe hacer la referencia correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4140,6 +4164,14 @@ Generador de portadas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="HP" changedate="20230526T132932Z" creationid="HP" creationdate="20230526T132932Z">
         <seg>Creador de frases temáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trusted Site</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="paula" changedate="20230528T113304Z" creationid="paula" creationdate="20230528T113304Z">
+        <seg>Sitio de confianza</seg>
       </tuv>
     </tu>
     <tu>
